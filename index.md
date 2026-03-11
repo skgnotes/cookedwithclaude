@@ -14,7 +14,7 @@ Since then I've started using Claude not as an assistant but as an execution eng
 
 This site documents what I've built and what I've learned. Most Claude Code content online is written by developers for developers. This site is for business leaders — founders, operators, senior professionals — who want things done.
 
----
+## Articles
 
 [About](/about)  
 [Claude Code for business owners — what it is and why it matters](/claude-code-for-business)  
