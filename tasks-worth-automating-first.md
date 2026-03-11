@@ -18,12 +18,13 @@ The big automations get the attention. But it's the small ones, the ones that cr
 
 What are the things like this you can think of that you wish you'd automated away? Those nagging recurring ones that create background noise and persistent low grade anxiety. Let me know, I'd love to take a stab at it and get it done for you.
 
+
 <nav style="display: flex; flex-direction: column; gap: 5px; margin-top: 10px; padding-top: 20px; border-top: 1px solid #eee;">
   <div>
-    <a href="/expensive-to-carry" style="text-decoration: none; color: #0366d6;">← Previous: Cheap to do, expensive to carry</a>
+    <a href="/skills" style="text-decoration: none; color: #0366d6;">Next: Skills are the new apps →</a>
   </div>
   <div>
-    <a href="/skills" style="text-decoration: none; color: #0366d6;">Next: Skills are the new apps →</a>
+    <a href="/expensive-to-carry" style="text-decoration: none; color: #0366d6;">← Previous: Cheap to do, expensive to carry</a>
   </div>
   <div>
     <a href="/" style="text-decoration: none; color: #0366d6;">Home</a>

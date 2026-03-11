@@ -77,13 +77,13 @@ That's the bet: consistent, incremental investment in a system that gets better 
 
 The productivity isn't in any one automation. It's in the accumulation.
 
+
 <nav style="display: flex; flex-direction: column; gap: 5px; margin-top: 10px; padding-top: 20px; border-top: 1px solid #eee;">
   <div>
-    <a href="/how-it-started" style="text-decoration: none; color: #0366d6;">← Previous: How it started, how it's going</a>
-  </div>
-
-  <div>
     <a href="/expensive-to-carry" style="text-decoration: none; color: #0366d6;">Next: Cheap to do, expensive to carry →</a>
+  </div>
+  <div>
+    <a href="/how-it-started" style="text-decoration: none; color: #0366d6;">← Previous: How it started, how it's going</a>
   </div>
   <div>
     <a href="/" style="text-decoration: none; color: #0366d6;">Home</a>

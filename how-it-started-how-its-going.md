@@ -64,13 +64,13 @@ Now I ask it to run them.
 
 It works. I feel powerful.
 
+
 <nav style="display: flex; flex-direction: column; gap: 5px; margin-top: 10px; padding-top: 20px; border-top: 1px solid #eee;">
   <div>
-    <a href="/about" style="text-decoration: none; color: #0366d6;">← Previous: Why this site</a>
-  </div>
-
-  <div>
     <a href="/assistant-who-can" style="text-decoration: none; color: #0366d6;">Next: The difference between an assistant who knows and an assistant who can →</a>
+  </div>
+  <div>
+    <a href="/about" style="text-decoration: none; color: #0366d6;">← Previous: Why this site</a>
   </div>
   <div>
     <a href="/" style="text-decoration: none; color: #0366d6;">Home</a>
