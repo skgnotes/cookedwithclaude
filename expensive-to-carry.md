@@ -26,6 +26,7 @@ The clearest way I know to think about this: every task you do has two costs. Th
 
 <nav style="display: flex; flex-direction: column; gap: 5px; margin-top: 10px; padding-top: 20px; border-top: 1px solid #eee;">
   <div>
+    <a href="/assistant-who-can" style="text-decoration: none; color: #0366d6;">← Previous: The difference between an assistant who knows and an assistant who can</a>
   </div>
   <div>
     <a href="/tasks-worth-automating-first" style="text-decoration: none; color: #0366d6;">Next: The tasks worth automating first →</a>
