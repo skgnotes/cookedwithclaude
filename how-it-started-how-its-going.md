@@ -12,13 +12,11 @@ It worked. I felt clever.
 
 What I did not notice at the time: I was still the one doing things. The AI wrote the code. I executed it. The loop ran through me.
 
----
 
 That was the shape of AI assistance for a while: a shortcut that still ran through me. Every output from the AI was an input for me.
 
 I kept using it this way for months. I got faster at generating the scripts I wanted. The execution model stayed the same.
 
----
 
 The shift happened when I moved to Claude Code.
 
@@ -32,7 +30,6 @@ A message sent. A report filed. A booking briefed. A form filled. A follow-up se
 
 Not given. Done.
 
----
 
 That distinction — given vs done — is where everything changed.
 
@@ -40,7 +37,6 @@ Before: AI as a better way to write things I still had to do.
 
 Now: AI as a system that does them.
 
----
 
 Where it is now is harder to describe concisely because it has become infrastructure.
 
@@ -50,7 +46,6 @@ My EA gets a morning brief every day — what she needs, formatted, ready to act
 
 I am not doing less work. I am doing the work that requires judgment, not the work that requires execution. The line between those two used to blur. Now it is sharp.
 
----
 
 Between the early days and now, AI has changed. But what really needed to change was the way I was using it.
 
@@ -60,7 +55,6 @@ Claude Code is not passive. Or more precisely: it is as passive as you make it. 
 
 The difference is what you ask for.
 
----
 
 I started by asking AI to help me write things I was still going to run.
 

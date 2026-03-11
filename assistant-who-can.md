@@ -10,7 +10,6 @@ That's an advisor. I already have advisors.
 
 What I wanted was an assistant — something that acts, not just advises. The difference sounds small. It isn't.
 
----
 
 ## What changes when the assistant can act
 
@@ -24,7 +23,6 @@ When a customer emails about the product, Claude drafts the reply, sends it, and
 
 This is the shift. The work gets done. Not reminded. Done.
 
----
 
 ## Why this required building infrastructure
 
@@ -36,7 +34,6 @@ This isn't complicated technically — it's a few OAuth tokens and a couple of a
 
 The difference between "I can see your calendar" and "I can add, edit, and decline events on your calendar" is the difference between a dashboard and an assistant.
 
----
 
 ## The other thing: structure
 
@@ -52,7 +49,6 @@ The second layer is dynamic — what's happening this week, current project stat
 
 The split matters because it changes what needs to be loaded when. If you're helping me draft an email, you need my communication style (stable) and context on the person I'm emailing (dynamic). You don't need my GTD philosophy. Separating the two means each session loads what's relevant without wading through everything.
 
----
 
 ## What getting things done actually requires
 
@@ -66,7 +62,6 @@ The goal of the system I'm building isn't to automate everything. It's to reduce
 
 Claude knows my calendar because I shouldn't have to open it to answer "when am I free this week." Claude can message my EA because the decision to book travel is mine — the act of messaging shouldn't be. Claude drafts replies because the judgment call on what to say is mine — the typing isn't.
 
----
 
 ## The honest version
 
