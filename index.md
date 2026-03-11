@@ -16,8 +16,8 @@ This site documents what I've built and what I've learned. Most Claude Code cont
 
 ## Articles
 
-[How it started, how it's going](/how-it-started)
-[Why this site](/about)
+[Why this site](/about)  
+[How it started, how it's going](/how-it-started)  
 [Claude Code for business owners — what it is and why it matters](/claude-code-for-business)  
 [How to use Claude Code if you're not a developer](/not-a-developer)  
 [Claude Code vs ChatGPT for business — which one actually gets things done](/claude-code-vs-chatgpt)  
