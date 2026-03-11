@@ -6,8 +6,12 @@ layout: page
 
 *The business leader's playbook for getting things done in the AI age*
 
-I am not a developer. My background is in building companies and advising startups across India. A few months back, I started using Claude Code not as a writing assistant but as an execution engine — and that distinction changes everything about how work gets done.
+I am not a developer. My background is in consulting, building companies, and advising startups.
 
-This site documents what I've built and what I've learned. It's for founders, operators, and professionals who want things done.
+A few months ago, I discovered Claude Code. It's been a revelation.
+
+Since then I've started using Claude not as an assistant but as an execution engine — and that distinction changes everything about how work gets done.
+
+This site documents what I've built and what I've learned. Most Claude Code content online is written by developers for developers. This site is for business leaders — founders, operators, senior professionals — who want things done.
 
 [Notes →](/notes)
