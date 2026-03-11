@@ -64,7 +64,7 @@ It works. I feel powerful.
 
 <nav style="display: flex; flex-direction: column; gap: 5px; margin-top: 10px; padding-top: 20px; border-top: 1px solid #eee;">
   <div>
-    <a href="/claude-code-for-business" style="text-decoration: none; color: #0366d6;">Next: Claude Code for business owners — what it is and why it matters →</a>
+    <a href="/assistant-who-can" style="text-decoration: none; color: #0366d6;">Next: The difference between an assistant who knows and an assistant who can →</a>
   </div>
   <div>
     <a href="/" style="text-decoration: none; color: #0366d6;">Home</a>

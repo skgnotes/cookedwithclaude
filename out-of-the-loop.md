@@ -20,3 +20,9 @@ One keeps you in the loop. The other closes it.
     <a href="/" style="text-decoration: none; color: #0366d6;">Home</a>
   </div>
 </nav>
+
+<nav style="display: flex; flex-direction: column; gap: 5px; margin-top: 10px; padding-top: 20px; border-top: 1px solid #eee;">
+  <div>
+    <a href="/" style="text-decoration: none; color: #0366d6;">Home</a>
+  </div>
+</nav>
