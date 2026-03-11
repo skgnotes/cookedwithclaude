@@ -28,3 +28,12 @@ Not people who want to learn to code. People who want things done.
 The articles here fall into two types. Some are observations — short pieces on the philosophy of working with AI, on what changes when your tools can act instead of just advise. Others are practical — the specific automations I have built, how they work, what it took to get there.
 
 Start anywhere.
+
+<nav style="display: flex; flex-direction: column; gap: 5px; margin-top: 10px; padding-top: 20px; border-top: 1px solid #eee;">
+  <div>
+    <a href="/claude-code-for-business" style="text-decoration: none; color: #0366d6;">Next: Claude Code for business owners — what it is and why it matters →</a>
+  </div>
+  <div>
+    <a href="/" style="text-decoration: none; color: #0366d6;">Home</a>
+  </div>
+</nav>
