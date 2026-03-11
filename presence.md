@@ -24,7 +24,6 @@ The coffee tastes better when you're present.
 
 <nav style="display: flex; flex-direction: column; gap: 5px; margin-top: 10px; padding-top: 20px; border-top: 1px solid #eee;">
   <div>
-    <a href="/skills" style="text-decoration: none; color: #0366d6;">← Previous: Skills are the new apps</a>
   </div>
   <div>
     <a href="/out-of-the-loop" style="text-decoration: none; color: #0366d6;">Next: Remove yourself from the loop →</a>
