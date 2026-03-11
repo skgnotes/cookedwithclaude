@@ -18,6 +18,7 @@ What are the things like this you can think of that you wish you'd automated awa
 
 <nav style="display: flex; flex-direction: column; gap: 5px; margin-top: 10px; padding-top: 20px; border-top: 1px solid #eee;">
   <div>
+    <a href="/expensive-to-carry" style="text-decoration: none; color: #0366d6;">← Previous: Cheap to do, expensive to carry</a>
   </div>
   <div>
     <a href="/skills" style="text-decoration: none; color: #0366d6;">Next: Skills are the new apps →</a>
