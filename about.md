@@ -3,7 +3,7 @@ layout: post
 permalink: /about
 ---
 
-# About
+# Why this site
 
 I am not a developer. I have never written production software for a living. My background is in building companies, advising startups, and operating across business functions — sales, strategy, partnerships, operations, communications, the full stack of running something.
 
