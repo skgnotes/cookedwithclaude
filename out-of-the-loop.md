@@ -16,11 +16,14 @@ One keeps you in the loop. The other closes it.
 
 
 
-<nav style="display: flex; flex-direction: column; gap: 5px; margin-top: 10px; padding-top: 20px; border-top: 1px solid #eee;">
+<nav style="margin-top: 48px; padding-top: 24px; border-top: 1px solid #eee; font-size: 14px;">
   <div>
-    <a href="/presence" style="text-decoration: none; color: #0366d6;">← Previous: Your mind is for having ideas, not holding them</a>
+    <a href="/do-it-for-me">Next: "Do it for me" →</a>
   </div>
   <div>
-    <a href="/" style="text-decoration: none; color: #0366d6;">Home</a>
+    <a href="/presence">← Previous: Your mind is for having ideas, not holding them</a>
+  </div>
+  <div style="margin-top: 16px;">
+    <a href="/">↑ Home</a>
   </div>
 </nav>

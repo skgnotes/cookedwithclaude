@@ -21,4 +21,7 @@ This site documents what I've built and what I've learned. Most Claude Code cont
 [The tasks worth automating first](/tasks-worth-automating-first)  
 [Skills are the new apps](/skills)  
 [Your mind is for having ideas, not holding them](/presence)  
-[Remove yourself from the loop](/out-of-the-loop)
+[Remove yourself from the loop](/out-of-the-loop)  
+["Do it for me"](/do-it-for-me)  
+[The first automation I built with Claude Code](/first-automation)  
+[From idea to live site in one session](/idea-to-live-site)
