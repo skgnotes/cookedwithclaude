@@ -4,6 +4,8 @@ title: Cheap to do, expensive to carry
 permalink: /expensive-to-carry
 ---
 
+# Cheap to do, expensive to carry
+
 Our badminton group uses a WhatsApp poll to figure out who's playing each day. Someone posts it, people vote yes or no or maybe, and by evening we know if there's a game.
 
 There was no assigned person for this. It just needed to happen — sometime before it got too late for people to plan. Some days it went up early. Some days it went up late. Some days someone else posted it. Some days nobody did, and there'd be a scramble in the group chat.

@@ -4,6 +4,8 @@ title: How it started, how it's going
 permalink: /how-it-started
 ---
 
+# How it started, how it's going
+
 For a long time, the best tool I had for automating things was Google Apps Script. I could write it — but not quickly, not cleanly, and only as far as my understanding reached.
 
 So when AI tools arrived, I started using them to write the scripts for me. I described what I needed — pull data from this sheet, format it, send a summary email — and ChatGPT wrote the script. I copied it, pasted it into the editor, ran it, hit an error, went back, fixed it, ran it again.

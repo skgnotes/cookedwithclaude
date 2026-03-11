@@ -4,6 +4,8 @@ title: Skills are the new apps
 permalink: /skills
 ---
 
+# Skills are the new apps
+
 Every morning, my system checks if I have any travel that day or the next. If I do, it checks in for my flight automatically. I don't open an app. I don't set a reminder. I don't remember to do it. It just happens.
 
 Not long ago, this required an airline app, a reminder to open it, and two minutes at the right time. That's what apps gave us — tools to do things, when we remembered to do them.

@@ -4,6 +4,8 @@ title: The difference between an assistant who knows and an assistant who can
 permalink: /assistant-who-can
 ---
 
+# The difference between an assistant who knows and an assistant who can
+
 There's a version of AI assistance that feels useful but isn't. You describe a situation, it tells you what to do, and then you go do it. You are still the one doing things.
 
 That's an advisor. I already have advisors.

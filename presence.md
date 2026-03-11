@@ -4,6 +4,8 @@ title: Your mind is for having ideas, not holding them
 permalink: /presence
 ---
 
+# Your mind is for having ideas, not holding them
+
 At some point this week, I stopped thinking about whether the badminton poll had gone out.
 
 It used to be a small but persistent mental note. Sitting somewhere around 10:30 AM, a vague awareness that I needed to post it at some point during the day. Not stressful. Just present. A background thread.

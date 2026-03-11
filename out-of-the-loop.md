@@ -4,6 +4,8 @@ title: Remove yourself from the loop
 permalink: /out-of-the-loop
 ---
 
+# Remove yourself from the loop
+
 A reminder doesn't do the task. It schedules it.
 
 The problem is that a reminder keeps you in the loop. It moves the obligation from now to later, from you-now to you-then. You-then has the same constraints you have now. The task hasn't moved closer to done — it's just changed hands with yourself.
