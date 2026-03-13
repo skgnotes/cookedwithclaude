@@ -75,11 +75,14 @@ Open Claude Code. Type one sentence about what you want to build. Then say: "Hel
 
 The infrastructure is trivial. The decision to start is the thing.
 
-<nav style="margin-top: 48px; padding-top: 24px; border-top: 1px solid #eee; font-size: 14px;">
+<nav style="display: flex; flex-direction: column; gap: 5px; margin-top: 10px; padding-top: 20px; border-top: 1px solid #eee;">
   <div>
-    <a href="/first-automation">← Previous: The first automation I built with Claude Code</a>
+    <a href="/company-that-runs-itself" style="text-decoration: none; color: #0366d6;">Next: The company that runs itself →</a>
   </div>
-  <div style="margin-top: 16px;">
-    <a href="/">↑ Home</a>
+  <div>
+    <a href="/first-automation" style="text-decoration: none; color: #0366d6;">← Previous: The first automation I built with Claude Code</a>
+  </div>
+  <div>
+    <a href="/" style="text-decoration: none; color: #0366d6;">Home</a>
   </div>
 </nav>

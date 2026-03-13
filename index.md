@@ -24,4 +24,5 @@ This site documents what I've built and what I've learned. Most Claude Code cont
 [Remove yourself from the loop](/out-of-the-loop)  
 ["Do it for me"](/do-it-for-me)  
 [The first automation I built with Claude Code](/first-automation)  
-[From idea to live site in one session](/idea-to-live-site)
+[From idea to live site in one session](/idea-to-live-site)  
+[The company that runs itself](/company-that-runs-itself)
