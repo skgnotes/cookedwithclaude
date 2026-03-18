@@ -40,6 +40,9 @@ The agency work is not disappearing. It is looking for new owners.
 
 <nav style="display: flex; flex-direction: column; gap: 5px; margin-top: 10px; padding-top: 20px; border-top: 1px solid #eee;">
   <div>
+    <a href="/the-30-second-audit" style="text-decoration: none; color: #0366d6;">Next: The 30-second audit →</a>
+  </div>
+  <div>
     <a href="/btw-feature-claude-code" style="text-decoration: none; color: #0366d6;">← Previous: Off the record</a>
   </div>
   <div>

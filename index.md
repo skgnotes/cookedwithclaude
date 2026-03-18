@@ -27,4 +27,6 @@ This site documents what I've built and what I've learned. Most Claude Code cont
 [From idea to live site in one session](/idea-to-live-site)  
 [The company that runs itself](/company-that-runs-itself)
 [Off the record](/btw-feature-claude-code)  
-[Curiosity and a mentor](/curiosity-and-a-mentor)
+[Curiosity and a mentor](/curiosity-and-a-mentor)  
+[The 30-second audit](/the-30-second-audit)  
+[What done actually means](/what-done-means)
