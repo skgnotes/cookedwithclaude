@@ -63,5 +63,13 @@ Capture is not the hard part. Processing is the discipline.
 The inbox holds things. The review makes decisions. The system works because those two things stay separate.
 
 <nav>
-[← Previous](/telegram-command-interface) | [Home](/) | [Next →](/when-tools-talk)
+  <div>
+    <a href="/when-tools-talk" style="text-decoration: none; color: #0366d6;">Next: When your tools talk to each other →</a>
+  </div>
+  <div>
+    <a href="/telegram-command-interface" style="text-decoration: none; color: #0366d6;">← Previous: A few commands that changed how I work</a>
+  </div>
+  <div>
+    <a href="/" style="text-decoration: none; color: #0366d6;">Home</a>
+  </div>
 </nav>

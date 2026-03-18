@@ -59,5 +59,13 @@ A system that requires one command — `action follow up with the client about p
 The desk is where you process. The phone is where you capture. Your system should work both places.
 
 <nav>
-[← Previous](/when-tools-talk) | [Home](/) | [Next →](/telegram-command-interface)
+  <div>
+    <a href="/telegram-command-interface" style="text-decoration: none; color: #0366d6;">Next: A few commands that changed how I work →</a>
+  </div>
+  <div>
+    <a href="/when-to-trust-the-ai" style="text-decoration: none; color: #0366d6;">← Previous: When to trust the AI, when to check the source</a>
+  </div>
+  <div>
+    <a href="/" style="text-decoration: none; color: #0366d6;">Home</a>
+  </div>
 </nav>

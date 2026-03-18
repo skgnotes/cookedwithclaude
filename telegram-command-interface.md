@@ -65,5 +65,13 @@ What takes longer is deciding what the commands should be. That's not a technica
 The bot just implements that. The thinking is yours.
 
 <nav>
-[← Previous](/capture-from-anywhere) | [Home](/) | [Next →](/inbox-is-not-where-things-get-done)
+  <div>
+    <a href="/inbox-is-not-where-things-get-done" style="text-decoration: none; color: #0366d6;">Next: The inbox is not where things get done →</a>
+  </div>
+  <div>
+    <a href="/capture-from-anywhere" style="text-decoration: none; color: #0366d6;">← Previous: Your capture system should work from your phone</a>
+  </div>
+  <div>
+    <a href="/" style="text-decoration: none; color: #0366d6;">Home</a>
+  </div>
 </nav>

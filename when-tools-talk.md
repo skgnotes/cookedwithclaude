@@ -71,5 +71,10 @@ The friction you were carrying around — the "I should add that somewhere," the
 That's the feeling. That's what you're building toward.
 
 <nav>
-[← Previous](/inbox-is-not-where-things-get-done) | [Home](/) | [Next →](/capture-from-anywhere)
+  <div>
+    <a href="/inbox-is-not-where-things-get-done" style="text-decoration: none; color: #0366d6;">← Previous: The inbox is not where things get done</a>
+  </div>
+  <div>
+    <a href="/" style="text-decoration: none; color: #0366d6;">Home</a>
+  </div>
 </nav>
