@@ -27,4 +27,4 @@ This site documents what I've built and what I've learned. Most Claude Code cont
 [From idea to live site in one session](/idea-to-live-site)  
 [The company that runs itself](/company-that-runs-itself)
 [Off the record](/btw-feature-claude-code)  
-[Your nephew could do this](/your-nephew-could-do-this)
+[Curiosity and a mentor](/curiosity-and-a-mentor)
