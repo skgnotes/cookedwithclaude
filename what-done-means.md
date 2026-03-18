@@ -36,6 +36,9 @@ Done doesn't mean the command ran. Done means the outcome exists.
 
 <nav style="display: flex; flex-direction: column; gap: 5px; margin-top: 10px; padding-top: 20px; border-top: 1px solid #eee;">
   <div>
+    <a href="/when-to-trust-the-ai" style="text-decoration: none; color: #0366d6;">Next: When to trust the AI, when to check the source →</a>
+  </div>
+  <div>
     <a href="/the-30-second-audit" style="text-decoration: none; color: #0366d6;">← Previous: The 30-second audit</a>
   </div>
   <div>
