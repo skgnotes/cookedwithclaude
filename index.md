@@ -34,4 +34,5 @@ This site documents what I've built and what I've learned. Most Claude Code cont
 [Your capture system should work from your phone](/capture-from-anywhere)
 [A few commands that changed how I work](/telegram-command-interface)
 [The inbox is not where things get done](/inbox-is-not-where-things-get-done)
-[When your tools talk to each other](/when-tools-talk)
+[When your tools talk to each other](/when-tools-talk)  
+[The system that checks itself](/the-system-that-checks-itself)

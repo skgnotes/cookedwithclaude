@@ -72,6 +72,9 @@ That's the feeling. That's what you're building toward.
 
 <nav>
   <div>
+    <a href="/the-system-that-checks-itself" style="text-decoration: none; color: #0366d6;">Next: The system that checks itself →</a>
+  </div>
+  <div>
     <a href="/inbox-is-not-where-things-get-done" style="text-decoration: none; color: #0366d6;">← Previous: The inbox is not where things get done</a>
   </div>
   <div>
