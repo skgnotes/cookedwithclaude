@@ -71,6 +71,9 @@ The questions that matter for the session, ask normally. The rest — ask off th
 
 <nav style="margin-top: 48px; padding-top: 24px; border-top: 1px solid #eee; font-size: 14px;">
   <div>
+    <a href="/your-nephew-could-do-this">Next: Your nephew could do this →</a>
+  </div>
+  <div>
     <a href="/company-that-runs-itself">← Previous: The company that runs itself</a>
   </div>
   <div style="margin-top: 16px;">
