@@ -31,3 +31,7 @@ This site documents what I've built and what I've learned. Most Claude Code cont
 [The 30-second audit](/the-30-second-audit)  
 [What done actually means](/what-done-means)
 [When to trust the AI, when to check the source](/when-to-trust-the-ai)
+[Your capture system should work from your phone](/capture-from-anywhere)
+[A few commands that changed how I work](/telegram-command-interface)
+[The inbox is not where things get done](/inbox-is-not-where-things-get-done)
+[When your tools talk to each other](/when-tools-talk)
