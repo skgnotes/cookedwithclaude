@@ -76,11 +76,11 @@ The goal is not a dashboard. A dashboard lives somewhere you have to go. The sta
 
 That's a different way to operate.
 
-<nav style="margin-top: 48px; padding-top: 24px; border-top: 1px solid #eee; font-size: 14px;">
+<nav style="display: flex; flex-direction: column; gap: 5px; margin-top: 10px; padding-top: 20px; border-top: 1px solid #eee;">
   <div>
-    <a href="/daily-login-health-check">← Previous: The daily login health check</a>
+    <a href="/daily-login-health-check" style="text-decoration: none; color: #0366d6;">← Previous: The daily login health check</a>
   </div>
-  <div style="margin-top: 16px;">
-    <a href="/">↑ Home</a>
+  <div>
+    <a href="/" style="text-decoration: none; color: #0366d6;">Home</a>
   </div>
 </nav>

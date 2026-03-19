@@ -84,14 +84,14 @@ Once you've done it for one integration, the pattern is clear. Adding the next o
 
 The goal isn't to build a monitoring system. It's to wake up already knowing.
 
-<nav style="margin-top: 48px; padding-top: 24px; border-top: 1px solid #eee; font-size: 14px;">
+<nav style="display: flex; flex-direction: column; gap: 5px; margin-top: 10px; padding-top: 20px; border-top: 1px solid #eee;">
   <div>
-    <a href="/personal-os-status-page">Next: Your personal OS needs a status page →</a>
+    <a href="/personal-os-status-page" style="text-decoration: none; color: #0366d6;">Next: Your personal OS needs a status page →</a>
   </div>
   <div>
-    <a href="/one-browser-for-the-ai">← Previous: One browser for the AI</a>
+    <a href="/one-browser-for-the-ai" style="text-decoration: none; color: #0366d6;">← Previous: One browser for the AI</a>
   </div>
-  <div style="margin-top: 16px;">
-    <a href="/">↑ Home</a>
+  <div>
+    <a href="/" style="text-decoration: none; color: #0366d6;">Home</a>
   </div>
 </nav>

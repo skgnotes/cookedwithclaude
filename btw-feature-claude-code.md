@@ -69,7 +69,7 @@ The habit worth building: before asking a question mid-session, pause for two se
 
 The questions that matter for the session, ask normally. The rest — ask off the record.
 
-<nav style="margin-top: 48px; padding-top: 24px; border-top: 1px solid #eee; font-size: 14px;">
+<nav style="display: flex; flex-direction: column; gap: 5px; margin-top: 10px; padding-top: 20px; border-top: 1px solid #eee;">
   <div>
     <a href="/curiosity-and-a-mentor" style="text-decoration: none; color: #0366d6;">Next: Curiosity and a mentor →</a>
   </div>

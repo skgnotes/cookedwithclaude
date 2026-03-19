@@ -51,14 +51,14 @@ The interesting question isn't whether that's possible. It is.
 The interesting question is: what are you saving your attention for?
 
 
-<nav style="margin-top: 48px; padding-top: 24px; border-top: 1px solid #eee; font-size: 14px;">
+<nav style="display: flex; flex-direction: column; gap: 5px; margin-top: 10px; padding-top: 20px; border-top: 1px solid #eee;">
   <div>
-    <a href="/btw-feature-claude-code">Next: Off the record →</a>
+    <a href="/btw-feature-claude-code" style="text-decoration: none; color: #0366d6;">Next: Off the record →</a>
   </div>
   <div>
-    <a href="/idea-to-live-site">← Previous: From idea to live site in one session</a>
+    <a href="/idea-to-live-site" style="text-decoration: none; color: #0366d6;">← Previous: From idea to live site in one session</a>
   </div>
-  <div style="margin-top: 16px;">
-    <a href="/">↑ Home</a>
+  <div>
+    <a href="/" style="text-decoration: none; color: #0366d6;">Home</a>
   </div>
 </nav>

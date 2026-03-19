@@ -70,7 +70,7 @@ The friction you were carrying around — the "I should add that somewhere," the
 
 That's the feeling. That's what you're building toward.
 
-<nav>
+<nav style="display: flex; flex-direction: column; gap: 5px; margin-top: 10px; padding-top: 20px; border-top: 1px solid #eee;">
   <div>
     <a href="/the-system-that-checks-itself" style="text-decoration: none; color: #0366d6;">Next: The system that checks itself →</a>
   </div>

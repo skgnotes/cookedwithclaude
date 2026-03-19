@@ -58,7 +58,7 @@ A system that requires one command — `action follow up with the client about p
 
 The desk is where you process. The phone is where you capture. Your system should work both places.
 
-<nav>
+<nav style="display: flex; flex-direction: column; gap: 5px; margin-top: 10px; padding-top: 20px; border-top: 1px solid #eee;">
   <div>
     <a href="/telegram-command-interface" style="text-decoration: none; color: #0366d6;">Next: A few commands that changed how I work →</a>
   </div>

@@ -74,14 +74,14 @@ The general fix is the same: separate the environments. Give the automation its 
 
 The browser separation is just the most visible instance of this principle. Once you see it here, you see it everywhere.
 
-<nav style="margin-top: 48px; padding-top: 24px; border-top: 1px solid #eee; font-size: 14px;">
+<nav style="display: flex; flex-direction: column; gap: 5px; margin-top: 10px; padding-top: 20px; border-top: 1px solid #eee;">
   <div>
-    <a href="/daily-login-health-check">Next: The daily login health check →</a>
+    <a href="/daily-login-health-check" style="text-decoration: none; color: #0366d6;">Next: The daily login health check →</a>
   </div>
   <div>
-    <a href="/the-system-that-checks-itself">← Previous: The system that checks itself</a>
+    <a href="/the-system-that-checks-itself" style="text-decoration: none; color: #0366d6;">← Previous: The system that checks itself</a>
   </div>
-  <div style="margin-top: 16px;">
-    <a href="/">↑ Home</a>
+  <div>
+    <a href="/" style="text-decoration: none; color: #0366d6;">Home</a>
   </div>
 </nav>

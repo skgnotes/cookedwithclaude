@@ -39,14 +39,14 @@ Every time you find yourself explaining a situation to Claude, pause before you 
 
 The answer will often be yes. More often than you expect.
 
-<nav style="margin-top: 48px; padding-top: 24px; border-top: 1px solid #eee; font-size: 14px;">
+<nav style="display: flex; flex-direction: column; gap: 5px; margin-top: 10px; padding-top: 20px; border-top: 1px solid #eee;">
   <div>
-    <a href="/first-automation">Next: The first automation I built with Claude Code →</a>
+    <a href="/first-automation" style="text-decoration: none; color: #0366d6;">Next: The first automation I built with Claude Code →</a>
   </div>
   <div>
-    <a href="/out-of-the-loop">← Previous: Remove yourself from the loop</a>
+    <a href="/out-of-the-loop" style="text-decoration: none; color: #0366d6;">← Previous: Remove yourself from the loop</a>
   </div>
-  <div style="margin-top: 16px;">
-    <a href="/">↑ Home</a>
+  <div>
+    <a href="/" style="text-decoration: none; color: #0366d6;">Home</a>
   </div>
 </nav>

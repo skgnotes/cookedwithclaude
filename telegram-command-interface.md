@@ -64,7 +64,7 @@ What takes longer is deciding what the commands should be. That's not a technica
 
 The bot just implements that. The thinking is yours.
 
-<nav>
+<nav style="display: flex; flex-direction: column; gap: 5px; margin-top: 10px; padding-top: 20px; border-top: 1px solid #eee;">
   <div>
     <a href="/inbox-is-not-where-things-get-done" style="text-decoration: none; color: #0366d6;">Next: The inbox is not where things get done →</a>
   </div>

@@ -62,7 +62,7 @@ Capture is not the hard part. Processing is the discipline.
 
 The inbox holds things. The review makes decisions. The system works because those two things stay separate.
 
-<nav>
+<nav style="display: flex; flex-direction: column; gap: 5px; margin-top: 10px; padding-top: 20px; border-top: 1px solid #eee;">
   <div>
     <a href="/when-tools-talk" style="text-decoration: none; color: #0366d6;">Next: When your tools talk to each other →</a>
   </div>

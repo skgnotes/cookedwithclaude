@@ -37,6 +37,9 @@ Trust the AI to find the right door. Check the source to confirm what's on the o
 
 <nav style="display: flex; flex-direction: column; gap: 5px; margin-top: 10px; padding-top: 20px; border-top: 1px solid #eee;">
   <div>
+    <a href="/capture-from-anywhere" style="text-decoration: none; color: #0366d6;">Next: Your capture system should work from your phone →</a>
+  </div>
+  <div>
     <a href="/what-done-means" style="text-decoration: none; color: #0366d6;">← Previous: What done actually means</a>
   </div>
   <div>

@@ -45,14 +45,14 @@ Pick the thing you've been putting off for three months. Not the ambitious one. 
 
 Build that one first.
 
-<nav style="margin-top: 48px; padding-top: 24px; border-top: 1px solid #eee; font-size: 14px;">
+<nav style="display: flex; flex-direction: column; gap: 5px; margin-top: 10px; padding-top: 20px; border-top: 1px solid #eee;">
   <div>
-    <a href="/idea-to-live-site">Next: From idea to live site in one session →</a>
+    <a href="/idea-to-live-site" style="text-decoration: none; color: #0366d6;">Next: From idea to live site in one session →</a>
   </div>
   <div>
-    <a href="/do-it-for-me">← Previous: "Do it for me"</a>
+    <a href="/do-it-for-me" style="text-decoration: none; color: #0366d6;">← Previous: "Do it for me"</a>
   </div>
-  <div style="margin-top: 16px;">
-    <a href="/">↑ Home</a>
+  <div>
+    <a href="/" style="text-decoration: none; color: #0366d6;">Home</a>
   </div>
 </nav>
