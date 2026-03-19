@@ -86,6 +86,9 @@ The goal isn't to build a monitoring system. It's to wake up already knowing.
 
 <nav style="margin-top: 48px; padding-top: 24px; border-top: 1px solid #eee; font-size: 14px;">
   <div>
+    <a href="/personal-os-status-page">Next: Your personal OS needs a status page →</a>
+  </div>
+  <div>
     <a href="/one-browser-for-the-ai">← Previous: One browser for the AI</a>
   </div>
   <div style="margin-top: 16px;">

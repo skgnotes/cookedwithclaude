@@ -38,3 +38,4 @@ This site documents what I've built and what I've learned. Most Claude Code cont
 [The system that checks itself](/the-system-that-checks-itself)
 [One browser for the AI](/one-browser-for-the-ai)  
 [The daily login health check](/daily-login-health-check)
+[Your personal OS needs a status page](/personal-os-status-page)
