@@ -48,6 +48,9 @@ The systems have already checked. They're ready.
 
 <nav style="margin-top: 48px; padding-top: 24px; border-top: 1px solid #eee; font-size: 14px;">
   <div>
+    <a href="/one-browser-for-the-ai">Next: One browser for the AI →</a>
+  </div>
+  <div>
     <a href="/when-tools-talk">← Previous: When your tools talk to each other</a>
   </div>
   <div style="margin-top: 16px;">
