@@ -78,6 +78,9 @@ That's a different way to operate.
 
 <nav style="display: flex; flex-direction: column; gap: 5px; margin-top: 10px; padding-top: 20px; border-top: 1px solid #eee;">
   <div>
+    <a href="/phone-as-api-endpoint" style="text-decoration: none; color: #0366d6;">Next: Your phone is now an API endpoint →</a>
+  </div>
+  <div>
     <a href="/daily-login-health-check" style="text-decoration: none; color: #0366d6;">← Previous: The daily login health check</a>
   </div>
   <div>
