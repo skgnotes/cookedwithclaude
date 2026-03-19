@@ -36,4 +36,5 @@ This site documents what I've built and what I've learned. Most Claude Code cont
 [The inbox is not where things get done](/inbox-is-not-where-things-get-done)
 [When your tools talk to each other](/when-tools-talk)  
 [The system that checks itself](/the-system-that-checks-itself)
-[One browser for the AI](/one-browser-for-the-ai)
+[One browser for the AI](/one-browser-for-the-ai)  
+[The daily login health check](/daily-login-health-check)
