@@ -52,6 +52,9 @@ The developer power user is well served. This is for everyone else.
 
 <nav style="display: flex; flex-direction: column; gap: 5px; margin-top: 10px; padding-top: 20px; border-top: 1px solid #eee;">
   <div>
+    <a href="/one-automation" style="text-decoration: none; color: #0366d6;">Next: How One Automation Killed a Daily Manual Task →</a>
+  </div>
+  <div>
     <a href="/remote-control" style="text-decoration: none; color: #0366d6;">← Previous: The remote control of Claude Code</a>
   </div>
   <div>
