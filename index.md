@@ -107,3 +107,5 @@ This site documents what I've built and what I've learned. Most Claude Code cont
 [Setting up Playwright and why it matters](/setting-up-playwright)
 
 [Hooking Up Claude Code with Telegram](/telegram-control-layer)
+
+[Your content team is now an org chart](/your-content-team-is-now-an-org-chart)
