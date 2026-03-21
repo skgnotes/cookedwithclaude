@@ -71,6 +71,9 @@ Start there.
     <a href="/one-automation" style="text-decoration: none; color: #0366d6;">← Previous: How One Automation Killed a Daily Manual Task</a>
   </div>
   <div>
+    <a href="/ai-agents-idle-cost" style="text-decoration: none; color: #0366d6;">Next → Your AI team is burning money while it sleeps</a>
+  </div>
+  <div>
     <a href="/" style="text-decoration: none; color: #0366d6;">Home</a>
   </div>
 </nav>
