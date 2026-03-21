@@ -24,14 +24,14 @@ There are things a coworking space gives you that a Claude Code session doesn't.
 
 But if the honest reason you're going is because it's hard to work at home: try a Claude Code session first. The activation cost is lower. The output is usually higher. And you don't have to fight for parking.
 
-<nav style="margin-top: 48px; padding-top: 24px; border-top: 1px solid #eee; font-size: 14px;">
+<nav style="display: flex; flex-direction: column; gap: 5px; margin-top: 10px; padding-top: 20px; border-top: 1px solid #eee;">
   <div>
-    <a href="/tool-priority-hierarchy">Next: The Tool Priority Hierarchy →</a>
+    <a href="/tool-priority-hierarchy" style="text-decoration: none; color: #0366d6;">Next: The Tool Priority Hierarchy →</a>
   </div>
   <div>
-    <a href="/from-user-to-fleet-operator">← Previous: From user to fleet operator — the four phases of working with AI</a>
+    <a href="/from-user-to-fleet-operator" style="text-decoration: none; color: #0366d6;">← Previous: From user to fleet operator — the four phases of working with AI</a>
   </div>
-  <div style="margin-top: 16px;">
-    <a href="/">↑ Home</a>
+  <div>
+    <a href="/" style="text-decoration: none; color: #0366d6;">Home</a>
   </div>
 </nav>

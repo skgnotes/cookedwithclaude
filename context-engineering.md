@@ -68,14 +68,14 @@ That file is not a prompt. It's infrastructure. The difference is that you build
 
 Most people are still trying to write better prompts. The operators pulling ahead are building better context.
 
-<nav style="margin-top: 48px; padding-top: 24px; border-top: 1px solid #eee; font-size: 14px;">
+<nav style="display: flex; flex-direction: column; gap: 5px; margin-top: 10px; padding-top: 20px; border-top: 1px solid #eee;">
   <div>
-    <a href="/tool-priority-hierarchy">← Previous: The Tool Priority Hierarchy</a>
+    <a href="/claude-md-setup" style="text-decoration: none; color: #0366d6;">Next: The CLAUDE.md setup that makes everything work →</a>
   </div>
-  <div style="margin-top: 16px;">
-    <a href="/claude-md-setup">Next: The CLAUDE.md setup that makes everything work →</a>
+  <div>
+    <a href="/tool-priority-hierarchy" style="text-decoration: none; color: #0366d6;">← Previous: The Tool Priority Hierarchy</a>
   </div>
-  <div style="margin-top: 16px;">
-    <a href="/">↑ Home</a>
+  <div>
+    <a href="/" style="text-decoration: none; color: #0366d6;">Home</a>
   </div>
 </nav>

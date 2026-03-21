@@ -137,14 +137,14 @@ That's the minimum. Ship it. Then add to it every time you catch yourself re-exp
 
 The file compounds. An hour of setup returns that hour — plus margin — on every session that follows.
 
-<nav style="margin-top: 48px; padding-top: 24px; border-top: 1px solid #eee; font-size: 14px;">
+<nav style="display: flex; flex-direction: column; gap: 5px; margin-top: 10px; padding-top: 20px; border-top: 1px solid #eee;">
   <div>
-    <a href="/context-engineering">← Previous: Context engineering, not prompt engineering</a>
+    <a href="/setting-up-playwright" style="text-decoration: none; color: #0366d6;">Next: Setting up Playwright and why it matters →</a>
   </div>
-  <div style="margin-top: 16px;">
-    <a href="/setting-up-playwright">Next: Setting up Playwright and why it matters →</a>
+  <div>
+    <a href="/context-engineering" style="text-decoration: none; color: #0366d6;">← Previous: Context engineering, not prompt engineering</a>
   </div>
-  <div style="margin-top: 16px;">
-    <a href="/">↑ Home</a>
+  <div>
+    <a href="/" style="text-decoration: none; color: #0366d6;">Home</a>
   </div>
 </nav>

@@ -86,14 +86,14 @@ The jump isn't about technical ability. It's about whether you're willing to inv
 
 The question isn't what phase you're capable of. It's what phase you're willing to design for.
 
-<nav style="margin-top: 48px; padding-top: 24px; border-top: 1px solid #eee; font-size: 14px;">
+<nav style="display: flex; flex-direction: column; gap: 5px; margin-top: 10px; padding-top: 20px; border-top: 1px solid #eee;">
   <div>
-    <a href="/skip-cowork">Next: What you're actually paying for at a coworking space →</a>
+    <a href="/skip-cowork" style="text-decoration: none; color: #0366d6;">Next: What you're actually paying for at a coworking space →</a>
   </div>
   <div>
-    <a href="/silent-failure">← Previous: The Silent Failure Problem</a>
+    <a href="/silent-failure" style="text-decoration: none; color: #0366d6;">← Previous: The Silent Failure Problem</a>
   </div>
-  <div style="margin-top: 16px;">
-    <a href="/">↑ Home</a>
+  <div>
+    <a href="/" style="text-decoration: none; color: #0366d6;">Home</a>
   </div>
 </nav>
