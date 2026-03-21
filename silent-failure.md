@@ -101,6 +101,9 @@ After that, you won't build another automation without them.
     <a href="/orchestration" style="text-decoration: none; color: #0366d6;">← Previous: Orchestration is the new programming</a>
   </div>
   <div>
+    <a href="/from-user-to-fleet-operator" style="text-decoration: none; color: #0366d6;">Next → From user to fleet operator — the four phases of working with AI</a>
+  </div>
+  <div>
     <a href="/" style="text-decoration: none; color: #0366d6;">Home</a>
   </div>
 </nav>

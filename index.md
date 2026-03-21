@@ -54,4 +54,5 @@ This site documents what I've built and what I've learned. Most Claude Code cont
 [How I automated my EA briefings with Claude Code](/ea-briefings)
 [Orchestration is the new programming](/orchestration)
 [The Silent Failure Problem](/silent-failure)
+[From user to fleet operator — the four phases of working with AI](/from-user-to-fleet-operator)
 
