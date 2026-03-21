@@ -142,6 +142,9 @@ The file compounds. An hour of setup returns that hour — plus margin — on ev
     <a href="/context-engineering">← Previous: Context engineering, not prompt engineering</a>
   </div>
   <div style="margin-top: 16px;">
+    <a href="/setting-up-playwright">Next: Setting up Playwright and why it matters →</a>
+  </div>
+  <div style="margin-top: 16px;">
     <a href="/">↑ Home</a>
   </div>
 </nav>

@@ -61,4 +61,5 @@ This site documents what I've built and what I've learned. Most Claude Code cont
 [The Tool Priority Hierarchy](/tool-priority-hierarchy)
 [Context engineering, not prompt engineering](/context-engineering)
 [The CLAUDE.md setup that makes everything work](/claude-md-setup)
+[Setting up Playwright and why it matters](/setting-up-playwright)
 
