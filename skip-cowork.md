@@ -26,6 +26,9 @@ But if the honest reason you're going is because it's hard to work at home: try 
 
 <nav style="margin-top: 48px; padding-top: 24px; border-top: 1px solid #eee; font-size: 14px;">
   <div>
+    <a href="/tool-priority-hierarchy">Next: The Tool Priority Hierarchy →</a>
+  </div>
+  <div>
     <a href="/from-user-to-fleet-operator">← Previous: From user to fleet operator — the four phases of working with AI</a>
   </div>
   <div style="margin-top: 16px;">
