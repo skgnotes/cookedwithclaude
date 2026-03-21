@@ -53,4 +53,5 @@ This site documents what I've built and what I've learned. Most Claude Code cont
 [My morning brief](/morning-brief)
 [How I automated my EA briefings with Claude Code](/ea-briefings)
 [Orchestration is the new programming](/orchestration)
+[The Silent Failure Problem](/silent-failure)
 

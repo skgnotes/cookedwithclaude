@@ -47,6 +47,9 @@ Orchestration is the new programming. And most of the best orchestrators are not
     <a href="/ea-briefings" style="text-decoration: none; color: #0366d6;">← Previous: How I automated my EA briefings</a>
   </div>
   <div>
+    <a href="/silent-failure" style="text-decoration: none; color: #0366d6;">Next: The Silent Failure Problem →</a>
+  </div>
+  <div>
     <a href="/" style="text-decoration: none; color: #0366d6;">Home</a>
   </div>
 </nav>
