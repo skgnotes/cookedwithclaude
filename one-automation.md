@@ -37,6 +37,9 @@ The automation doesn't replace the CA. It removes everything from the morning th
     <a href="/different-kind-of-power-user" style="text-decoration: none; color: #0366d6;">← Previous: A different kind of Claude Code power user</a>
   </div>
   <div>
+    <a href="/command-vocabulary" style="text-decoration: none; color: #0366d6;">Next: Your command vocabulary →</a>
+  </div>
+  <div>
     <a href="/" style="text-decoration: none; color: #0366d6;">Home</a>
   </div>
 </nav>

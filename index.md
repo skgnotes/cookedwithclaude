@@ -45,3 +45,4 @@ This site documents what I've built and what I've learned. Most Claude Code cont
 [The remote control of Claude Code](/remote-control)  
 [A different kind of Claude Code power user](/different-kind-of-power-user)  
 [How One Automation Killed a Daily Manual Task](/one-automation)
+[Your command vocabulary](/command-vocabulary)
