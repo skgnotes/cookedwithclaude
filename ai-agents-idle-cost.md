@@ -67,6 +67,9 @@ One config change fixed it. The only cost was the week before I looked.
     <a href="/command-vocabulary" style="text-decoration: none; color: #0366d6;">← Previous: Your command vocabulary</a>
   </div>
   <div>
+    <a href="/claude-code-for-business" style="text-decoration: none; color: #0366d6;">Next: Claude Code for business owners →</a>
+  </div>
+  <div>
     <a href="/" style="text-decoration: none; color: #0366d6;">Home</a>
   </div>
 </nav>
