@@ -117,6 +117,9 @@ Everything else builds from there.
 
 <nav style="display: flex; flex-direction: column; gap: 5px; margin-top: 10px; padding-top: 20px; border-top: 1px solid #eee;">
   <div>
+    <a href="/telegram-control-layer" style="text-decoration: none; color: #0366d6;">Next: Hooking Up Claude Code with Telegram →</a>
+  </div>
+  <div>
     <a href="/claude-md-setup" style="text-decoration: none; color: #0366d6;">← Previous: The CLAUDE.md setup that makes everything work</a>
   </div>
   <div>

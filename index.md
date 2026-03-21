@@ -105,3 +105,5 @@ This site documents what I've built and what I've learned. Most Claude Code cont
 [The CLAUDE.md setup that makes everything work](/claude-md-setup)
 
 [Setting up Playwright and why it matters](/setting-up-playwright)
+
+[Hooking Up Claude Code with Telegram](/telegram-control-layer)
