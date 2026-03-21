@@ -50,4 +50,7 @@ This site documents what I've built and what I've learned. Most Claude Code cont
 [Claude Code for business owners](/claude-code-for-business)
 [How to use Claude Code if you're not a developer](/not-a-developer)
 [Claude Code vs ChatGPT for business](/claude-code-vs-chatgpt)
+[My morning brief](/morning-brief)
+[How I automated my EA briefings with Claude Code](/ea-briefings)
+[Orchestration is the new programming](/orchestration)
 

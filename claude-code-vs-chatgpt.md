@@ -63,6 +63,9 @@ They are not really competing for the same job.
     <a href="/not-a-developer" style="text-decoration: none; color: #0366d6;">← Previous: How to use Claude Code if you're not a developer</a>
   </div>
   <div>
+    <a href="/morning-brief" style="text-decoration: none; color: #0366d6;">Next: My morning brief →</a>
+  </div>
+  <div>
     <a href="/" style="text-decoration: none; color: #0366d6;">Home</a>
   </div>
 </nav>
