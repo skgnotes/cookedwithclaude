@@ -73,6 +73,9 @@ Most people are still trying to write better prompts. The operators pulling ahea
     <a href="/tool-priority-hierarchy">← Previous: The Tool Priority Hierarchy</a>
   </div>
   <div style="margin-top: 16px;">
+    <a href="/claude-md-setup">Next: The CLAUDE.md setup that makes everything work →</a>
+  </div>
+  <div style="margin-top: 16px;">
     <a href="/">↑ Home</a>
   </div>
 </nav>
