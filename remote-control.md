@@ -44,6 +44,8 @@ When you send a command, the listener catches it, runs the associated shell comm
 
 **`action [text]`** — same as note but adds it as a checkbox to my quick actions list. One word difference, different destination.
 
+**`idea [text]`** — sends a capture directly to the inbox of my ideas file. Not a task, not a note — a spark. It goes somewhere I will actually review it.
+
 **`check`** — runs a health check across all my automations and sends the results back to Telegram within a few minutes. I know the state of the whole system without opening anything.
 
 **`close`** — kills all running sessions. Clean slate.
