@@ -56,3 +56,6 @@ This site documents what I've built and what I've learned. Most Claude Code cont
 [The Silent Failure Problem](/silent-failure)
 [From user to fleet operator — the four phases of working with AI](/from-user-to-fleet-operator)
 
+
+[What you're actually paying for at a coworking space](/skip-cowork)
+
