@@ -69,6 +69,9 @@ The second approach takes longer once and saves time forever.
     <a href="/skip-cowork">← Previous: What you're actually paying for at a coworking space</a>
   </div>
   <div style="margin-top: 16px;">
+    <a href="/context-engineering">Next: Context engineering, not prompt engineering →</a>
+  </div>
+  <div style="margin-top: 16px;">
     <a href="/">↑ Home</a>
   </div>
 </nav>

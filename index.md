@@ -59,4 +59,5 @@ This site documents what I've built and what I've learned. Most Claude Code cont
 
 [What you're actually paying for at a coworking space](/skip-cowork)
 [The Tool Priority Hierarchy](/tool-priority-hierarchy)
+[Context engineering, not prompt engineering](/context-engineering)
 
