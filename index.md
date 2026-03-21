@@ -47,4 +47,7 @@ This site documents what I've built and what I've learned. Most Claude Code cont
 [How One Automation Killed a Daily Manual Task](/one-automation)
 [Your command vocabulary](/command-vocabulary)
 [Your AI team is burning money while it sleeps](/ai-agents-idle-cost)
+[Claude Code for business owners](/claude-code-for-business)
+[How to use Claude Code if you're not a developer](/not-a-developer)
+[Claude Code vs ChatGPT for business](/claude-code-vs-chatgpt)
 
