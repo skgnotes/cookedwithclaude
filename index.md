@@ -112,3 +112,5 @@ This site documents what I've built and what I've learned. Most Claude Code cont
 
 [Setting up Google Workspace with Claude Code](/setting-up-google-workspace)
 
+[Use Google Antigravity to set up Claude Code on your machine](/setup-claude-code-antigravity)
+

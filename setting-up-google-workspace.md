@@ -143,6 +143,9 @@ The integration compounds. Each new data source makes every other one more usefu
 
 <nav style="display: flex; flex-direction: column; gap: 5px; margin-top: 10px; padding-top: 20px; border-top: 1px solid #eee;">
   <div>
+    <a href="/setup-claude-code-antigravity" style="text-decoration: none; color: #0366d6;">Next: Use Google Antigravity to set up Claude Code on your machine →</a>
+  </div>
+  <div>
     <a href="/your-content-team-is-now-an-org-chart" style="text-decoration: none; color: #0366d6;">← Previous: Your content team is now an org chart</a>
   </div>
   <div>
