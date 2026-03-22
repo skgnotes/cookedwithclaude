@@ -94,6 +94,9 @@ The files are doing one thing: making sure your AI knows your world before you a
 
 <nav style="display: flex; flex-direction: column; gap: 5px; margin-top: 10px; padding-top: 20px; border-top: 1px solid #eee;">
   <div>
+    <a href="/the-one-word-trigger" style="text-decoration: none; color: #0366d6;">Next: The One-Word Trigger →</a>
+  </div>
+  <div>
     <a href="/setting-up-your-first-skill" style="text-decoration: none; color: #0366d6;">← Previous: Setting up your first skill</a>
   </div>
   <div>

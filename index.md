@@ -130,3 +130,5 @@ This site documents what I've built and what I've learned. Most Claude Code cont
 
 [How I Built a Personal Operating System with Flat Files](/personal-operating-system-flat-files)
 
+[The One-Word Trigger](/the-one-word-trigger)
+
