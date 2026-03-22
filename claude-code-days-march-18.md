@@ -10,7 +10,9 @@ Some days you don't plan to be productive. You just start doing one thing, and t
 
 <div style="background: #f0f0f7; border-radius: 6px; padding: 16px 20px; margin-bottom: 24px;" markdown="1">
 
-**tl;dr** The day started as routine housekeeping and ended with eight articles published, a friend's online store nearly ready to launch, and a nephew offered his first real client engagement. Here's what happened:
+**Quick read:**
+
+The day started as routine housekeeping and ended with eight articles published, a friend's online store nearly ready to launch, and a nephew offered his first real client engagement. Here's what happened:
 
 - Rebuilt the task management system from scratch: 35 unstructured items reorganised into six clear categories
 - Set up a command that sends a formatted to-do list straight to the home printer — one word, document in hand
