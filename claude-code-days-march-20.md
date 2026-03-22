@@ -57,7 +57,7 @@ Ran it live for two entities. Both notices pulled. Both PDFs named cleanly. Both
 
 The reason this mattered beyond the operational value: the accountant who handles tax matters for several entities I'm involved with has been exploring AI enablement for their firm. The notice run was partly a demonstration. There's a difference between describing what AI can do and watching it log in, pull a notice, and forward it on WhatsApp while you're sitting in the room. That difference — between abstract and witnessed — is where adoption actually happens.
 
----
+### What it added up to.
 
 A voice AI built and waiting for a phone number. A regulatory wall documented and queued. A silent automation diagnosed and fixed. Health checks expanded to 14. A day's planned work discovered to already exist. Two income tax notices pulled and forwarded, live.
 

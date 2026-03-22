@@ -67,7 +67,7 @@ After lunch, we kept going. I refined how the team selects topics — a balance 
 
 Late in the day, I ran a usage report across all my Claude Code sessions for the past month. **1,056 sessions. 239 hours. 89% satisfaction.** The final pipeline run of the day — another article — was kicked off before I closed the laptop. Telegram would tell me when it was done.
 
----
+### What it added up to.
 
 Content organised. Tools connected. Errands automated. A publishing team built and run. A water bottle ordered hands-free. A website cleaned up. Lunch with my parents.
 

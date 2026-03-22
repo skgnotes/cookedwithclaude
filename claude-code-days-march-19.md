@@ -60,7 +60,7 @@ In the evening I built something completely different: an automated way to clear
 
 The day ended with sharing the blog in the family WhatsApp group. It took a couple of rounds of editing to get the tone right. No hype, no positioning language. Just: 30 articles up, writing and publishing both done with Claude Code, take a look if you're curious. Low-key. Direct. That's the register that felt right.
 
----
+### What it added up to.
 
 A browser setup made permanent. A morning health check that now heals itself. A calendar bug fixed. An automation stack documented for the first time. Fourteen pages cleaned up. A front-door piece for first-time readers. Thirty articles on the site. The blog shared with family.
 

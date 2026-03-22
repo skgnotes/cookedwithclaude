@@ -57,7 +57,7 @@ Personal errands ran in parallel. A mobile recharge done. A pharmacy order place
 
 And then, because it was that kind of day, two family messages. A WhatsApp to Mom in Malayalam, updating her on a settlement call happening over the weekend. A WhatsApp to my sister, looping her in on the nephew outreach, with a link to the blog.
 
----
+### What it added up to.
 
 A task list rebuilt. The home printer finally working right. A friend's store one step closer to launch. A nephew handed a real opportunity. Payment terms researched and shared. Eight articles published. Personal errands cleared.
 
