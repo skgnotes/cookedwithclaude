@@ -114,3 +114,5 @@ This site documents what I've built and what I've learned. Most Claude Code cont
 
 [Use Google Antigravity to set up Claude Code on your machine](/setup-claude-code-antigravity)
 
+[Using Claude as a Thinking Partner](/using-claude-as-a-thinking-partner)
+

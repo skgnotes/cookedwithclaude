@@ -84,6 +84,9 @@ The rest of this series assumes you're already running Claude Code. This is how 
 
 <nav style="display: flex; flex-direction: column; gap: 5px; margin-top: 10px; padding-top: 20px; border-top: 1px solid #eee;">
   <div>
+    <a href="/using-claude-as-a-thinking-partner" style="text-decoration: none; color: #0366d6;">Next: Using Claude as a Thinking Partner →</a>
+  </div>
+  <div>
     <a href="/setting-up-google-workspace" style="text-decoration: none; color: #0366d6;">← Previous: Setting up Google Workspace with Claude Code</a>
   </div>
   <div>
