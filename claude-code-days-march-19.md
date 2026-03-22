@@ -74,10 +74,10 @@ You can build this. Not all at once. Not in a day. But piece by piece, the way I
 
 <nav style="display: flex; flex-direction: column; gap: 5px; margin-top: 10px; padding-top: 20px; border-top: 1px solid #eee;">
   <div>
-    <a href="/claude-code-days-march-20" style="text-decoration: none; color: #0366d6;">Next: My Day with Claude Code — March 20 →</a>
+    <a href="/claude-code-days-march-20" style="text-decoration: none; color: #0366d6;">Next day →</a>
   </div>
   <div>
-    <a href="/claude-code-days-march-18" style="text-decoration: none; color: #0366d6;">← Previous: My Day with Claude Code — March 18</a>
+    <a href="/claude-code-days-march-18" style="text-decoration: none; color: #0366d6;">← Previous day</a>
   </div>
   <div>
     <a href="/claude-code-days" style="text-decoration: none; color: #0366d6;">Go to My Day with Claude Code (series) Home</a>
