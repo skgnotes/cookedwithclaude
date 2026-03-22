@@ -8,16 +8,22 @@ permalink: /claude-code-days-march-20
 
 Some days have a shape to them. March 20 had the shape of a wall — and everything happening around it.
 
-> **Quick read:** The main project hit a regulatory wall. Everything around it kept moving. And the day ended with a live demonstration — for an accountant exploring AI for their firm — that turned abstract into witnessed. Here's what happened:
->
-> - Built a working voice AI for delivery agents: they call a number, the AI answers and gives the exact address and directions in natural language
-> - Hit the wall: every Indian phone number provider requires full government KYC — no self-serve path, no sandbox. Email sent. Waiting.
-> - Diagnosed why the morning health check had gone completely silent: a one-line fix. Expanded from 9 checks to 14 while in there.
-> - Discovered that the mobile control feature I'd been planning to build already ships natively with Claude Code — saved a day's work
-> - Built a skill that logs into the Income Tax portal, pulls the latest notice for a given entity, and forwards it to the accountant on WhatsApp with a summary
-> - Ran it live for two entities in the same session. The accountant was watching.
->
-> Some days you build. Some days you fix. Some days you clear a path for something that'll land later. This was all three.
+<div style="background: #f0f0f7; border-radius: 6px; padding: 16px 20px; margin-bottom: 24px;" markdown="1">
+
+**Quick read**
+
+The main project hit a regulatory wall. Everything around it kept moving. And the day ended with a live demonstration — for an accountant exploring AI for their firm — that turned abstract into witnessed. Here's what happened:
+
+- Built a working voice AI for delivery agents: they call a number, the AI answers and gives the exact address and directions in natural language
+- Hit the wall: every Indian phone number provider requires full government KYC — no self-serve path, no sandbox. Email sent. Waiting.
+- Diagnosed why the morning health check had gone completely silent: a one-line fix. Expanded from 9 checks to 14 while in there.
+- Discovered that the mobile control feature I'd been planning to build already ships natively with Claude Code — saved a day's work
+- Built a skill that logs into the Income Tax portal, pulls the latest notice for a given entity, and forwards it to the accountant on WhatsApp with a summary
+- Ran it live for two entities in the same session. The accountant was watching.
+
+Some days you build. Some days you fix. Some days you clear a path for something that'll land later. This was all three.
+
+</div>
 
 <p style="margin-bottom: 32px;"></p>
 

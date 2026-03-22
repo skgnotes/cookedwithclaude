@@ -8,16 +8,22 @@ permalink: /claude-code-days-march-21
 
 Some days feel like you've lived three of them back to back. Yesterday was that day.
 
-> **Quick read:** Somewhere in the middle of this day, a publishing team of AI agents went live and ran four articles while I was at lunch with my parents. The day itself started early and ended near midnight. Here's what happened:
->
-> - Connected my note-taking app to Claude — one thought captured, lands in two places automatically
-> - Ordered cigarettes from Swiggy with a single command (it half-broke; fixed it afterward — that's how this works)
-> - Gave AI agents their own email addresses and the ability to read verification codes off my phone — then used that to buy a water bottle from Amazon without touching the keyboard once
-> - Built a full AI publishing team: strategist, writer, publisher, quality checker — all handing off to each other automatically, no human in the loop
-> - Four articles went live on this site while I was at lunch across town
-> - Ran a month's worth of usage data: 1,056 sessions, 239 hours, 89% satisfaction
->
-> The whole thing ran on one AI assistant, a decent amount of coffee, and — for part of it — just a phone.
+<div style="background: #f0f0f7; border-radius: 6px; padding: 16px 20px; margin-bottom: 24px;" markdown="1">
+
+**Quick read**
+
+Somewhere in the middle of this day, a publishing team of AI agents went live and ran four articles while I was at lunch with my parents. The day itself started early and ended near midnight. Here's what happened:
+
+- Connected my note-taking app to Claude — one thought captured, lands in two places automatically
+- Ordered cigarettes from Swiggy with a single command (it half-broke; fixed it afterward — that's how this works)
+- Gave AI agents their own email addresses and the ability to read verification codes off my phone — then used that to buy a water bottle from Amazon without touching the keyboard once
+- Built a full AI publishing team: strategist, writer, publisher, quality checker — all handing off to each other automatically, no human in the loop
+- Four articles went live on this site while I was at lunch across town
+- Ran a month's worth of usage data: 1,056 sessions, 239 hours, 89% satisfaction
+
+The whole thing ran on one AI assistant, a decent amount of coffee, and — for part of it — just a phone.
+
+</div>
 
 <p style="margin-bottom: 32px;"></p>
 

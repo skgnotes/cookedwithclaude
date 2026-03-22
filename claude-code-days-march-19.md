@@ -8,19 +8,25 @@ permalink: /claude-code-days-march-19
 
 There's a particular kind of day in work where you're not building anything new — you're making everything you've already built actually work. March 19 was that day, and by the time it was done, the system felt like it had aged two years in the right direction.
 
-> **Quick read:** A day spent making everything that was already built actually work — better, more reliably, with less chance of breaking quietly. Not glamorous. Completely necessary. Here's what happened:
->
-> - Permanently separated the automation browser from the personal browser — no more silent session drift
-> - Learned the only reliable way to check if a session is alive: navigate to the page and see. Everything else lies.
-> - Consolidated five scattered health check scripts into one, running automatically every morning at 7:45am
-> - Set up fully automatic recovery for expired Google logins — no intervention, no login screen
-> - Fixed a calendar bug that had been pulling yesterday's evening into today's schedule
-> - Documented every automation and script in the system for the first time (18 scripts, 13 scheduled jobs)
-> - Cleaned up the website: fixed a formatting issue collapsing all article links, converted 14 old-style nav footers
-> - Published five new articles — 25 to 30 total — including the front-door piece for first-time readers
-> - Shared the blog in the family WhatsApp group
->
-> Some days you build things. This day you made sure things stayed built.
+<div style="background: #f0f0f7; border-radius: 6px; padding: 16px 20px; margin-bottom: 24px;" markdown="1">
+
+**Quick read**
+
+A day spent making everything that was already built actually work — better, more reliably, with less chance of breaking quietly. Not glamorous. Completely necessary. Here's what happened:
+
+- Permanently separated the automation browser from the personal browser — no more silent session drift
+- Learned the only reliable way to check if a session is alive: navigate to the page and see. Everything else lies.
+- Consolidated five scattered health check scripts into one, running automatically every morning at 7:45am
+- Set up fully automatic recovery for expired Google logins — no intervention, no login screen
+- Fixed a calendar bug that had been pulling yesterday's evening into today's schedule
+- Documented every automation and script in the system for the first time (18 scripts, 13 scheduled jobs)
+- Cleaned up the website: fixed a formatting issue collapsing all article links, converted 14 old-style nav footers
+- Published five new articles — 25 to 30 total — including the front-door piece for first-time readers
+- Shared the blog in the family WhatsApp group
+
+Some days you build things. This day you made sure things stayed built.
+
+</div>
 
 <p style="margin-bottom: 32px;"></p>
 
