@@ -5,7 +5,7 @@ permalink: /claude-code-days
 
 # Claude Code Days
 
-A running log of how I actually spend my days working with Claude Code — what got built, what broke, what surprised me.
+A running log of how I actually spend my days working with Claude Code — what got built, what broke, what was learnt and what got done.
 
 [My Day with Claude Code — March 21, 2026](/claude-code-days-march-21)
 
