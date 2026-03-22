@@ -126,3 +126,5 @@ This site documents what I've built and what I've learned. Most Claude Code cont
 
 [Advice Is Not Action](/advice-is-not-action)
 
+[Setting up your first skill](/setting-up-your-first-skill)
+
