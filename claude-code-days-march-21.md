@@ -6,20 +6,18 @@ permalink: /claude-code-days-march-21
 
 # My Day with Claude Code — March 21, 2026
 
-**Quick read:** Somewhere in the middle of this day, a publishing team of AI agents went live and ran four articles while I was at lunch with my parents. The day itself started early and ended near midnight. Here's what happened:
+> **Quick read:** Somewhere in the middle of this day, a publishing team of AI agents went live and ran four articles while I was at lunch with my parents. The day itself started early and ended near midnight. Here's what happened:
+>
+> - Connected my note-taking app to Claude — one thought captured, lands in two places automatically
+> - Ordered cigarettes from Swiggy with a single command (it half-broke; fixed it afterward — that's how this works)
+> - Gave AI agents their own email addresses and the ability to read verification codes off my phone — then used that to buy a water bottle from Amazon without touching the keyboard once
+> - Built a full AI publishing team: strategist, writer, publisher, quality checker — all handing off to each other automatically, no human in the loop
+> - Four articles went live on this site while I was at lunch across town
+> - Ran a month's worth of usage data: 1,056 sessions, 239 hours, 89% satisfaction
+>
+> The whole thing ran on one AI assistant, a decent amount of coffee, and — for part of it — just a phone.
 
-- Connected my note-taking app to Claude — one thought captured, lands in two places automatically
-- Ordered cigarettes from Swiggy with a single command (it half-broke; fixed it afterward — that's how this works)
-- Gave AI agents their own email addresses and the ability to read verification codes off my phone — then used that to buy a water bottle from Amazon without touching the keyboard once
-- Built a full AI publishing team: strategist, writer, publisher, quality checker — all handing off to each other automatically, no human in the loop
-- Four articles went live on this site while I was at lunch across town
-- Ran a month's worth of usage data: 1,056 sessions, 239 hours, 89% satisfaction
-
-The whole thing ran on one AI assistant, a decent amount of coffee, and — for part of it — just a phone.
-
----
-
-### The day that was.
+<p style="margin-bottom: 32px;"></p>
 
 Some days feel like you've lived three of them back to back. Yesterday was that day.
 
@@ -67,7 +65,7 @@ After lunch, we kept going. I refined how the team selects topics — a balance 
 
 Late in the day, I ran a usage report across all my Claude Code sessions for the past month. **1,056 sessions. 239 hours. 89% satisfaction.** The final pipeline run of the day — another article — was kicked off before I closed the laptop. Telegram would tell me when it was done.
 
-### What it added up to.
+### The day that was.
 
 Content organised. Tools connected. Errands automated. A publishing team built and run. A water bottle ordered hands-free. A website cleaned up. Lunch with my parents.
 

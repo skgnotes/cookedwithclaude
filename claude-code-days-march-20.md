@@ -6,20 +6,18 @@ permalink: /claude-code-days-march-20
 
 # My Day with Claude Code — March 20, 2026
 
-**Quick read:** The main project hit a regulatory wall. Everything around it kept moving. And the day ended with a live demonstration — for an accountant exploring AI for their firm — that turned abstract into witnessed. Here's what happened:
+> **Quick read:** The main project hit a regulatory wall. Everything around it kept moving. And the day ended with a live demonstration — for an accountant exploring AI for their firm — that turned abstract into witnessed. Here's what happened:
+>
+> - Built a working voice AI for delivery agents: they call a number, the AI answers and gives the exact address and directions in natural language
+> - Hit the wall: every Indian phone number provider requires full government KYC — no self-serve path, no sandbox. Email sent. Waiting.
+> - Diagnosed why the morning health check had gone completely silent: a one-line fix. Expanded from 9 checks to 14 while in there.
+> - Discovered that the mobile control feature I'd been planning to build already ships natively with Claude Code — saved a day's work
+> - Built a skill that logs into the Income Tax portal, pulls the latest notice for a given entity, and forwards it to the accountant on WhatsApp with a summary
+> - Ran it live for two entities in the same session. The accountant was watching.
+>
+> Some days you build. Some days you fix. Some days you clear a path for something that'll land later. This was all three.
 
-- Built a working voice AI for delivery agents: they call a number, the AI answers and gives the exact address and directions in natural language
-- Hit the wall: every Indian phone number provider requires full government KYC — no self-serve path, no sandbox. Email sent. Waiting.
-- Diagnosed why the morning health check had gone completely silent: a one-line fix. Expanded from 9 checks to 14 while in there.
-- Discovered that the mobile control feature I'd been planning to build already ships natively with Claude Code — saved a day's work
-- Built a skill that logs into the Income Tax portal, pulls the latest notice for a given entity, and forwards it to the accountant on WhatsApp with a summary
-- Ran it live for two entities in the same session. The accountant was watching.
-
-Some days you build. Some days you fix. Some days you clear a path for something that'll land later. This was all three.
-
----
-
-### The day that was.
+<p style="margin-bottom: 32px;"></p>
 
 Some days have a shape to them. March 20 had the shape of a wall — and everything happening around it.
 
@@ -57,7 +55,7 @@ Ran it live for two entities. Both notices pulled. Both PDFs named cleanly. Both
 
 The reason this mattered beyond the operational value: the accountant who handles tax matters for several entities I'm involved with has been exploring AI enablement for their firm. The notice run was partly a demonstration. There's a difference between describing what AI can do and watching it log in, pull a notice, and forward it on WhatsApp while you're sitting in the room. That difference — between abstract and witnessed — is where adoption actually happens.
 
-### What it added up to.
+### The day that was.
 
 A voice AI built and waiting for a phone number. A regulatory wall documented and queued. A silent automation diagnosed and fixed. Health checks expanded to 14. A day's planned work discovered to already exist. Two income tax notices pulled and forwarded, live.
 

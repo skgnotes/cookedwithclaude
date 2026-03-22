@@ -6,24 +6,22 @@ permalink: /claude-code-days-march-18
 
 # My Day with Claude Code — March 18, 2026
 
-**Quick read:** The day started as routine housekeeping and ended with eight articles published, a friend's online store nearly ready to launch, and a nephew offered his first real client engagement. Here's what happened:
+> **Quick read:** The day started as routine housekeeping and ended with eight articles published, a friend's online store nearly ready to launch, and a nephew offered his first real client engagement. Here's what happened:
+>
+> - Rebuilt the task management system from scratch: 35 unstructured items reorganised into six clear categories
+> - Set up a command that sends a formatted to-do list straight to the home printer — one word, document in hand
+> - Built out a friend's ethnic wear Shopify store: About page, Contact page, all policy pages, footer links verified
+> - Drafted a brief for the client's coordinator: here's what's built, here's what we need from you to go live
+> - Reached out to a nephew with a real paid client engagement to learn on
+> - Researched payment settlement terms (2 days domestic, 7 international) and shared a clean note with the client and nephew
+> - Added a Telegram command that drops a task directly into the to-do list from anywhere
+> - Eight articles published on cookedwithclaude.com
+> - Set up the personal resume site as a private, password-protected page — not indexed anywhere
+> - Swiggy order automation: first real run, half-worked, found the issue, fixed it
+>
+> The day had direction before I knew where it was going.
 
-- Rebuilt the task management system from scratch: 35 unstructured items reorganised into six clear categories
-- Set up a command that sends a formatted to-do list straight to the home printer — one word, document in hand
-- Built out a friend's ethnic wear Shopify store: About page, Contact page, all policy pages, footer links verified
-- Drafted a brief for the client's coordinator: here's what's built, here's what we need from you to go live
-- Reached out to a nephew with a real paid client engagement to learn on
-- Researched payment settlement terms (2 days domestic, 7 international) and shared a clean note with the client and nephew
-- Added a Telegram command that drops a task directly into the to-do list from anywhere
-- Eight articles published on cookedwithclaude.com
-- Set up the personal resume site as a private, password-protected page — not indexed anywhere
-- Swiggy order automation: first real run, half-worked, found the issue, fixed it
-
-The day had direction before I knew where it was going.
-
----
-
-### The day that was.
+<p style="margin-bottom: 32px;"></p>
 
 Some days you don't plan to be productive. You just start doing one thing, and then the momentum takes over.
 
@@ -57,7 +55,7 @@ Personal errands ran in parallel. A mobile recharge done. A pharmacy order place
 
 And then, because it was that kind of day, two family messages. A WhatsApp to Mom in Malayalam, updating her on a settlement call happening over the weekend. A WhatsApp to my sister, looping her in on the nephew outreach, with a link to the blog.
 
-### What it added up to.
+### The day that was.
 
 A task list rebuilt. The home printer finally working right. A friend's store one step closer to launch. A nephew handed a real opportunity. Payment terms researched and shared. Eight articles published. Personal errands cleared.
 

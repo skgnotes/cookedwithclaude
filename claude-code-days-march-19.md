@@ -6,23 +6,21 @@ permalink: /claude-code-days-march-19
 
 # My Day with Claude Code — March 19, 2026
 
-**Quick read:** A day spent making everything that was already built actually work — better, more reliably, with less chance of breaking quietly. Not glamorous. Completely necessary. Here's what happened:
+> **Quick read:** A day spent making everything that was already built actually work — better, more reliably, with less chance of breaking quietly. Not glamorous. Completely necessary. Here's what happened:
+>
+> - Permanently separated the automation browser from the personal browser — no more silent session drift
+> - Learned the only reliable way to check if a session is alive: navigate to the page and see. Everything else lies.
+> - Consolidated five scattered health check scripts into one, running automatically every morning at 7:45am
+> - Set up fully automatic recovery for expired Google logins — no intervention, no login screen
+> - Fixed a calendar bug that had been pulling yesterday's evening into today's schedule
+> - Documented every automation and script in the system for the first time (18 scripts, 13 scheduled jobs)
+> - Cleaned up the website: fixed a formatting issue collapsing all article links, converted 14 old-style nav footers
+> - Published five new articles — 25 to 30 total — including the front-door piece for first-time readers
+> - Shared the blog in the family WhatsApp group
+>
+> Some days you build things. This day you made sure things stayed built.
 
-- Permanently separated the automation browser from the personal browser — no more silent session drift
-- Learned the only reliable way to check if a session is alive: navigate to the page and see. Everything else lies.
-- Consolidated five scattered health check scripts into one, running automatically every morning at 7:45am
-- Set up fully automatic recovery for expired Google logins — no intervention, no login screen
-- Fixed a calendar bug that had been pulling yesterday's evening into today's schedule
-- Documented every automation and script in the system for the first time (18 scripts, 13 scheduled jobs)
-- Cleaned up the website: fixed a formatting issue collapsing all article links, converted 14 old-style nav footers
-- Published five new articles — 25 to 30 total — including the front-door piece for first-time readers
-- Shared the blog in the family WhatsApp group
-
-Some days you build things. This day you made sure things stayed built.
-
----
-
-### The day that was.
+<p style="margin-bottom: 32px;"></p>
 
 There's a particular kind of day in work where you're not building anything new — you're making everything you've already built actually work. March 19 was that day, and by the time it was done, the system felt like it had aged two years in the right direction.
 
@@ -60,7 +58,7 @@ In the evening I built something completely different: an automated way to clear
 
 The day ended with sharing the blog in the family WhatsApp group. It took a couple of rounds of editing to get the tone right. No hype, no positioning language. Just: 30 articles up, writing and publishing both done with Claude Code, take a look if you're curious. Low-key. Direct. That's the register that felt right.
 
-### What it added up to.
+### The day that was.
 
 A browser setup made permanent. A morning health check that now heals itself. A calendar bug fixed. An automation stack documented for the first time. Fourteen pages cleaned up. A front-door piece for first-time readers. Thirty articles on the site. The blog shared with family.
 
