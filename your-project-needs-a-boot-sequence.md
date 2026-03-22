@@ -70,6 +70,9 @@ The file gets better every time you wish you didn't have to say something again.
 
 <nav style="display: flex; flex-direction: column; gap: 5px; margin-top: 10px; padding-top: 20px; border-top: 1px solid #eee;">
   <div>
+    <a href="/the-idea-bank" style="text-decoration: none; color: #0366d6;">Next: The Idea Bank: A Content Capture System That Runs Itself →</a>
+  </div>
+  <div>
     <a href="/setting-up-obsidian" style="text-decoration: none; color: #0366d6;">← Previous: Setting up Obsidian and why</a>
   </div>
   <div>

@@ -122,3 +122,5 @@ This site documents what I've built and what I've learned. Most Claude Code cont
 
 [Your project needs a boot sequence](/your-project-needs-a-boot-sequence)
 
+[The Idea Bank: A Content Capture System That Runs Itself](/the-idea-bank)
+
