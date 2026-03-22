@@ -120,3 +120,5 @@ This site documents what I've built and what I've learned. Most Claude Code cont
 
 [Setting up Obsidian and why](/setting-up-obsidian)
 
+[Your project needs a boot sequence](/your-project-needs-a-boot-sequence)
+

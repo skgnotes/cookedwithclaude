@@ -98,6 +98,9 @@ That's the moment. The session is no longer starting cold — it's starting with
 
 <nav style="display: flex; flex-direction: column; gap: 5px; margin-top: 10px; padding-top: 20px; border-top: 1px solid #eee;">
   <div>
+    <a href="/your-project-needs-a-boot-sequence" style="text-decoration: none; color: #0366d6;">Next: Your project needs a boot sequence →</a>
+  </div>
+  <div>
     <a href="/inbox-anywhere" style="text-decoration: none; color: #0366d6;">← Previous: Inbox Anywhere</a>
   </div>
   <div>
