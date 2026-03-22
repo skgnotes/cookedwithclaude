@@ -6,6 +6,19 @@ permalink: /claude-code-days-march-21
 
 # My Day with Claude Code — March 21, 2026
 
+**Quick read:** Somewhere in the middle of this day, a publishing team of AI agents went live and ran four articles while I was at lunch with my parents. The day itself started early and ended near midnight. Here's what happened:
+
+- Connected my note-taking app to Claude — one thought captured, lands in two places automatically
+- Ordered cigarettes from Swiggy with a single command (it half-broke; fixed it afterward — that's how this works)
+- Gave AI agents their own email addresses and the ability to read verification codes off my phone — then used that to buy a water bottle from Amazon without touching the keyboard once
+- Built a full AI publishing team: strategist, writer, publisher, quality checker — all handing off to each other automatically, no human in the loop
+- Four articles went live on this site while I was at lunch across town
+- Ran a month's worth of usage data: 1,056 sessions, 239 hours, 89% satisfaction
+
+The whole thing ran on one AI assistant, a decent amount of coffee, and — for part of it — just a phone.
+
+---
+
 Some days feel like you've lived three of them back to back. Yesterday was that day.
 
 It started with housekeeping — the kind that doesn't feel glamorous but you know matters. My content system for this site had gotten messy. Ideas, drafts, published articles, random captures — all in the same place, all mixed together. So Claude and I sorted it out: a dedicated backlog, a separate inbox for fresh ideas, everything in its own place. Like reorganising a desk that had gotten out of hand. Then we made sure everything that talks to each other was still talking correctly — a few configurations that had drifted were brought back in line. None of this is exciting. All of it needed to happen.
