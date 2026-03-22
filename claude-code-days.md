@@ -7,6 +7,8 @@ permalink: /claude-code-days
 
 A daily column on how I actually spend my days working with Claude Code — what got built, what broke, what was learnt and what got done.
 
+[My Day with Claude Code — March 22, 2026](/claude-code-days-march-22)
+
 [My Day with Claude Code — March 21, 2026](/claude-code-days-march-21)
 
 [My Day with Claude Code — March 20, 2026](/claude-code-days-march-20)

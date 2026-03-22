@@ -83,6 +83,9 @@ You can build this. Not all at once. Not in a day. But piece by piece, the way I
 
 <nav style="display: flex; flex-direction: column; gap: 5px; margin-top: 10px; padding-top: 20px; border-top: 1px solid #eee;">
   <div>
+    <a href="/claude-code-days-march-22" style="text-decoration: none; color: #0366d6;">Next day →</a>
+  </div>
+  <div>
     <a href="/claude-code-days-march-20" style="text-decoration: none; color: #0366d6;">← Previous day</a>
   </div>
   <div>
