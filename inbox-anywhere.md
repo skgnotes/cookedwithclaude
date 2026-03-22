@@ -54,6 +54,9 @@ This alone should feel close to magical.
 
 <nav style="display: flex; flex-direction: column; gap: 5px; margin-top: 10px; padding-top: 20px; border-top: 1px solid #eee;">
   <div>
+    <a href="/setting-up-obsidian" style="text-decoration: none; color: #0366d6;">Next: Setting up Obsidian and why →</a>
+  </div>
+  <div>
     <a href="/using-claude-as-a-thinking-partner" style="text-decoration: none; color: #0366d6;">← Previous: Using Claude as a Thinking Partner</a>
   </div>
   <div>

@@ -118,3 +118,5 @@ This site documents what I've built and what I've learned. Most Claude Code cont
 
 [Inbox Anywhere](/inbox-anywhere)
 
+[Setting up Obsidian and why](/setting-up-obsidian)
+
