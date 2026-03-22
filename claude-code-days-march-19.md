@@ -6,29 +6,51 @@ permalink: /claude-code-days-march-19
 
 # My Day with Claude Code — March 19, 2026
 
-There's a particular kind of day in software work where you're not building anything new — you're making everything you've already built actually work. March 19 was that day, and by the time it was done, the system felt like it had aged two years in the right direction.
+**Quick read:** A day spent making everything that was already built actually work — better, more reliably, with less chance of breaking quietly. Not glamorous. Completely necessary. Here's what happened:
 
-It started with something that had been nagging at me: the browser situation. Chrome and Edge had been coexisting a little too casually in my automation setup. Playwright was occasionally pointing to a hash-based temp Chrome profile — the kind that quietly changes location and loses all your sessions. I spent the first part of the morning hardening the separation for good. Chrome is now exclusively Claude Code's automation browser. Edge is my personal browser. The two don't touch. Playwright was pinned to a fixed, stable Chrome profile path. WhatsApp Web sessions and Shopify Partners sessions migrated over cleanly.
+- Permanently separated the automation browser from the personal browser — no more silent session drift
+- Learned the only reliable way to check if a session is alive: navigate to the page and see. Everything else lies.
+- Consolidated five scattered health check scripts into one, running automatically every morning at 7:45am
+- Set up fully automatic recovery for expired Google logins — no intervention, no login screen
+- Fixed a calendar bug that had been pulling yesterday's evening into today's schedule
+- Documented every automation and script in the system for the first time (18 scripts, 13 scheduled jobs)
+- Cleaned up the website: fixed a formatting issue collapsing all article links, converted 14 old-style nav footers
+- Published five new articles — 25 to 30 total — including the front-door piece for first-time readers
+- Shared the blog in the family WhatsApp group
 
-The more interesting learning came when I was tracing why a WhatsApp session had silently broken. The cookie existed. Chrome's SQLite database said it was there. But the session was dead on the server side, and nothing local was telling me that. The fix sounds obvious in retrospect: don't inspect the cookie, just navigate to the URL and see if it loads authenticated. That's the only check that actually tells you what's true. Cookie inspection is a lie detector that believes everything.
+Some days you build things. This day you made sure things stayed built.
 
-That insight fed directly into the health check overhaul. The WhatsApp check was rewritten to use Playwright navigation. A Shopify Partners check was added alongside it. All the old references to the personal browser were removed. Then I kept going. The health check had been five separate scripts running in different places. By afternoon it was one consolidated skill — checking Google tokens, the gws CLI, the Telegram bot, GitHub SSH, WhatsApp Web, Shopify Partners, and Supabase, all in sequence. A LaunchAgent now runs it at 7:45am every morning, fifteen minutes before the 8am digest, so tokens are always fresh when the digest fires. The most satisfying part: the gws OAuth re-authentication is fully unattended now. If Claude detects the auth URL, it opens Chrome, clicks through the Google consent flow, and fixes it without me ever seeing a login screen.
+---
 
-Around midday I ran the monthly Shopify payout skill — checked the monthly payout numbers and pushed results to the relevant WhatsApp groups. While I was thinking about the morning digest, I also pulled the recurring SaaS revenue figures into it automatically from the database. The morning brief now includes those numbers without me doing anything. Small change, significant upgrade.
+There's a particular kind of day in work where you're not building anything new — you're making everything you've already built actually work. March 19 was that day, and by the time it was done, the system felt like it had aged two years in the right direction.
 
-There was also a bug I'd been meaning to track down in the calendar display. The daily digest was showing the previous evening's events at the top of today's schedule. This one took some digging. The culprit: on a Mac set to IST, calling `new Date(year, month, day)` already returns midnight IST interpreted as UTC. Then the script was subtracting the IST offset again — sliding the window 5.5 hours earlier, pulling in yesterday's evening. Fixed by constructing the time with `Date.UTC()` and then subtracting — not the local date constructor. These are the bugs that make you feel both stupid and clever at the same time.
+It started with something that had been nagging at me: the way my two browsers were coexisting too casually. The browser I use for automations — running tasks in the background, managing sessions, doing real work — and my personal browser had started to blur. Automations were occasionally picking up temporary profiles that lose their sessions without warning. So I spent the first part of the morning drawing a clean line. Chrome is now exclusively for automations. Edge is my personal browser. Sessions migrated, paths locked in, the separation made permanent.
 
-Late afternoon shifted to documentation. The scripts folder had 18 scripts and the automation stack had 13 LaunchAgents, cron jobs, and hooks running across the system. None of it was documented. Knowledge files now exist for all of them. Two LaunchAgents that were doing redundant overlapping work were merged into one. The system didn't get bigger — it got cleaner.
+The more interesting lesson came from tracing why a WhatsApp session had silently broken. The session looked fine on the surface — the stored credential existed, the local record said everything was in order. But the session was dead, and nothing was telling me that. The fix sounds obvious in retrospect: don't inspect the stored record, just open the page and see if it loads logged in. That's the only check that actually tells you what's true. Looking at the stored credential is a lie detector that believes everything.
 
-Meanwhile, cookedwithclaude.com got a full audit. Trailing double-spaces in the index had been stripped somewhere along the way — Jekyll needs them for line breaks, so all the article links had collapsed into one long run-on line. Fixed with a quick Python pass. Then I found 14 article footers still using the old navigation style — the legacy one, with different link ordering and no explicit link styling. Converted all of them to the current standard. One article was missing its Next link entirely. And then I published a site style guide so none of this happens again.
+That insight went straight into the morning health check. The WhatsApp check was rewritten to actually navigate to the page. A check for the Shopify Partners account was added alongside it. The health check had been five separate scripts scattered in different places. By afternoon it was one consolidated routine — checking email authentication, the command-line tools I rely on, the Telegram bot, GitHub access, WhatsApp, Shopify, and the database, all in sequence. It now runs automatically every morning at 7:45am, fifteen minutes before the morning digest, so everything is confirmed working before the day's summary arrives.
 
-Five new articles went up that day, bringing the site from 25 to 30. The most important was a Level 0 front-door piece for readers who've never written a line of code and aren't sure what they're even looking at. That one had been the highest-priority gap for weeks. Getting it done felt like finally placing the welcome mat.
+The most satisfying part: if a Google login expires overnight, the system now fixes it by itself. It detects the authentication prompt, opens the browser, clicks through the consent screen, and closes the loop — without me ever seeing a login page.
 
-In the evening I built something completely different: a Python script to bulk-clear SMS conversations on an Android phone using ADB and UIAutomator. The non-obvious parts: content deletion silently fails on non-rooted Android 10+ because only the default SMS app has write permission. Long-press needs 2500ms, not 1000ms — shorter and it doesn't register. And you have to long-press the conversation body, not the avatar circle, or you open a contact card instead.
+Around midday I ran the monthly Shopify payout check. While I was thinking about the morning digest, I also pulled the recurring revenue figures into it automatically — the numbers that matter now arrive with the morning summary without me doing anything to retrieve them. Small change. Significant upgrade.
 
-The day ended with sharing the blog in the family WhatsApp group. It took two rounds of edits to get the tone right. No hype, no positioning language, no "built for busy business owners" framing. Just: 30 articles up, writing and publishing both done with Claude Code, take a look if you're curious. Low-key. Direct. That's the register that felt right.
+There was also a calendar bug I'd been meaning to trace. The daily schedule had been showing the previous evening's events at the top of today's list. A timezone miscalculation was pulling in a window that started 5.5 hours earlier than it should. Fixed. These are the bugs that make you feel both stupid and clever at the same time.
 
-Thirty articles. A hardened system. A documented automation stack. One fixed calendar bug. And a family group chat that now knows the blog exists.
+Late afternoon shifted to documentation. The automation stack had 18 scripts and 13 scheduled jobs running across the system. None of it was written down anywhere — it existed in practice, not on paper. Knowledge files now exist for all of them. Two automations that were doing redundant overlapping work were merged into one. The system didn't get bigger. It got cleaner.
+
+Meanwhile, the website got a full audit. A formatting issue had caused all the article links on the homepage to collapse into one long run-on line. Fixed. Fourteen article footers were still using the old navigation style — different link ordering, no explicit styling on the links. All converted to the current standard. One article was missing its Next link entirely. And then I published a site style guide so none of this happens again.
+
+Five new articles went up that day, bringing the site from 25 to 30. The most important was a front-door piece for readers who've never written a line of code and aren't sure what they're even looking at. That one had been the highest-priority gap for weeks. Getting it done felt like finally placing the welcome mat.
+
+In the evening I built something completely different: an automated way to clear old SMS conversations from my phone in bulk. Useful house-cleaning when a device accumulates months of noise.
+
+The day ended with sharing the blog in the family WhatsApp group. It took a couple of rounds of editing to get the tone right. No hype, no positioning language. Just: 30 articles up, writing and publishing both done with Claude Code, take a look if you're curious. Low-key. Direct. That's the register that felt right.
+
+What do you call a day like this? A browser setup made permanent. A morning health check that now heals itself. A calendar bug fixed. An automation stack documented for the first time. Fourteen pages cleaned up. A front-door piece for first-time readers. Thirty articles on the site. The blog shared with family.
+
+What strikes me about a day like this is how invisible the value is. Nobody sees a health check that runs cleanly every morning. Nobody notices a browser profile that never loses its session. Nobody reads the documentation for an automation stack. And yet all of it is the difference between a system that holds and one that quietly falls apart at inconvenient moments. The unglamorous work is the load-bearing work. What surprised me was how much of it got done in a single day — and how much lighter the whole thing felt afterward.
+
+You can build this. Not all at once. Not in a day. But piece by piece, the way I've been doing it — one automation, one workflow, one small win at a time. And if you want help getting started, that's exactly what this site is for.
 
 <nav style="display: flex; flex-direction: column; gap: 5px; margin-top: 10px; padding-top: 20px; border-top: 1px solid #eee;">
   <div>
