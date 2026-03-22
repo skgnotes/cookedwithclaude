@@ -6,6 +6,8 @@ permalink: /claude-code-days-march-19
 
 # My Day with Claude Code — March 19, 2026
 
+There's a particular kind of day in work where you're not building anything new — you're making everything you've already built actually work. March 19 was that day, and by the time it was done, the system felt like it had aged two years in the right direction.
+
 > **Quick read:** A day spent making everything that was already built actually work — better, more reliably, with less chance of breaking quietly. Not glamorous. Completely necessary. Here's what happened:
 >
 > - Permanently separated the automation browser from the personal browser — no more silent session drift
@@ -21,8 +23,6 @@ permalink: /claude-code-days-march-19
 > Some days you build things. This day you made sure things stayed built.
 
 <p style="margin-bottom: 32px;"></p>
-
-There's a particular kind of day in work where you're not building anything new — you're making everything you've already built actually work. March 19 was that day, and by the time it was done, the system felt like it had aged two years in the right direction.
 
 ### Hardening the setup
 

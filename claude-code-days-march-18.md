@@ -6,6 +6,8 @@ permalink: /claude-code-days-march-18
 
 # My Day with Claude Code — March 18, 2026
 
+Some days you don't plan to be productive. You just start doing one thing, and then the momentum takes over.
+
 > **Quick read:** The day started as routine housekeeping and ended with eight articles published, a friend's online store nearly ready to launch, and a nephew offered his first real client engagement. Here's what happened:
 >
 > - Rebuilt the task management system from scratch: 35 unstructured items reorganised into six clear categories
@@ -22,8 +24,6 @@ permalink: /claude-code-days-march-18
 > The day had direction before I knew where it was going.
 
 <p style="margin-bottom: 32px;"></p>
-
-Some days you don't plan to be productive. You just start doing one thing, and then the momentum takes over.
 
 ### Clearing the desk
 

@@ -6,6 +6,8 @@ permalink: /claude-code-days-march-21
 
 # My Day with Claude Code — March 21, 2026
 
+Some days feel like you've lived three of them back to back. Yesterday was that day.
+
 > **Quick read:** Somewhere in the middle of this day, a publishing team of AI agents went live and ran four articles while I was at lunch with my parents. The day itself started early and ended near midnight. Here's what happened:
 >
 > - Connected my note-taking app to Claude — one thought captured, lands in two places automatically
@@ -18,8 +20,6 @@ permalink: /claude-code-days-march-21
 > The whole thing ran on one AI assistant, a decent amount of coffee, and — for part of it — just a phone.
 
 <p style="margin-bottom: 32px;"></p>
-
-Some days feel like you've lived three of them back to back. Yesterday was that day.
 
 ### Housekeeping
 

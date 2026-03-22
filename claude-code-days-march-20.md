@@ -6,6 +6,8 @@ permalink: /claude-code-days-march-20
 
 # My Day with Claude Code — March 20, 2026
 
+Some days have a shape to them. March 20 had the shape of a wall — and everything happening around it.
+
 > **Quick read:** The main project hit a regulatory wall. Everything around it kept moving. And the day ended with a live demonstration — for an accountant exploring AI for their firm — that turned abstract into witnessed. Here's what happened:
 >
 > - Built a working voice AI for delivery agents: they call a number, the AI answers and gives the exact address and directions in natural language
@@ -18,8 +20,6 @@ permalink: /claude-code-days-march-20
 > Some days you build. Some days you fix. Some days you clear a path for something that'll land later. This was all three.
 
 <p style="margin-bottom: 32px;"></p>
-
-Some days have a shape to them. March 20 had the shape of a wall — and everything happening around it.
 
 ### The voice AI
 
