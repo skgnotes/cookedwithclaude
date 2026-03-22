@@ -116,3 +116,5 @@ This site documents what I've built and what I've learned. Most Claude Code cont
 
 [Using Claude as a Thinking Partner](/using-claude-as-a-thinking-partner)
 
+[Inbox Anywhere](/inbox-anywhere)
+
