@@ -124,3 +124,5 @@ This site documents what I've built and what I've learned. Most Claude Code cont
 
 [The Idea Bank: A Content Capture System That Runs Itself](/the-idea-bank)
 
+[Advice Is Not Action](/advice-is-not-action)
+

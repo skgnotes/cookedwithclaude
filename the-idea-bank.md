@@ -90,6 +90,9 @@ If Claude populated it — and it will — you have a system. Everything else is
 
 <nav style="display: flex; flex-direction: column; gap: 5px; margin-top: 10px; padding-top: 20px; border-top: 1px solid #eee;">
   <div>
+    <a href="/advice-is-not-action" style="text-decoration: none; color: #0366d6;">Next: Advice Is Not Action →</a>
+  </div>
+  <div>
     <a href="/your-project-needs-a-boot-sequence" style="text-decoration: none; color: #0366d6;">← Previous: Your project needs a boot sequence</a>
   </div>
   <div>
