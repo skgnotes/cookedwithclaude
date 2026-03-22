@@ -143,6 +143,9 @@ That's how the system compounds.
 
 <nav style="display: flex; flex-direction: column; gap: 5px; margin-top: 10px; padding-top: 20px; border-top: 1px solid #eee;">
   <div>
+    <a href="/personal-operating-system-flat-files" style="text-decoration: none; color: #0366d6;">Next: How I Built a Personal Operating System with Flat Files →</a>
+  </div>
+  <div>
     <a href="/advice-is-not-action" style="text-decoration: none; color: #0366d6;">← Previous: Advice Is Not Action</a>
   </div>
   <div>
