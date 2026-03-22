@@ -80,6 +80,9 @@ The org chart comes later. The definition of the work comes first.
 
 <nav style="display: flex; flex-direction: column; gap: 5px; margin-top: 10px; padding-top: 20px; border-top: 1px solid #eee;">
   <div>
+    <a href="/setting-up-google-workspace" style="text-decoration: none; color: #0366d6;">Next: Setting up Google Workspace with Claude Code →</a>
+  </div>
+  <div>
     <a href="/telegram-control-layer" style="text-decoration: none; color: #0366d6;">← Previous: Hooking Up Claude Code with Telegram</a>
   </div>
   <div>
