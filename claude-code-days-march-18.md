@@ -74,6 +74,6 @@ You can build this. Not all at once. Not in a day. But piece by piece, the way I
     <a href="/claude-code-days-march-19" style="text-decoration: none; color: #0366d6;">Next: My Day with Claude Code — March 19 →</a>
   </div>
   <div>
-    <a href="/claude-code-days" style="text-decoration: none; color: #0366d6;">← My Day with Claude Code (series)</a>
+    <a href="/claude-code-days" style="text-decoration: none; color: #0366d6;">Go to My Day with Claude Code (series) Home</a>
   </div>
 </nav>
