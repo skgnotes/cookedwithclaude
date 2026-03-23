@@ -17,7 +17,6 @@ March 17 was a day of infrastructure and scale. While one part of the morning wa
 - Rebuilt the core instruction file from scratch — cut from 236 lines to 90, split into two clear parts
 - Created a communications log — every message sent on my behalf is now tracked
 - Wrote knowledge files for all 16 skills in the system
-- Added a hook that automatically triggers a session wrap before the AI's memory resets
 - Migrated 118 articles from a non-profit client's blog to Substack — fully automated
 - Added images to 108 posts, then hit a cache bug: data updated, pages not showing the changes
 - Fixed the cache, re-published everything — 183 images rendering correctly across the archive
@@ -41,14 +40,6 @@ While we were at it: a new log was created to track every message sent on my beh
 
 Then: knowledge files. Every skill in the system — all 16 of them — now has a corresponding document explaining how it works, when to use it, what it expects. Before this, the skills existed but the reasoning behind them didn't. Now it does.
 
-### The hook that saves sessions
-
-One more infrastructure item before the afternoon: a hook. Claude Code has a context window — a limit on how much it can hold in memory at once. When that limit approaches, the system compresses. You can lose the thread of what you were doing.
-
-The fix: a hook that fires automatically before compression happens, instructing Claude to run a session wrap — capture what was done, log it, send a Telegram summary. The compaction happens *after* the session is properly closed, not instead of it.
-
-Small change. Significant difference.
-
 ### The archive project
 
 In the afternoon: a completely different kind of work. A non-profit client had years of published articles on their website — 118 of them — that they wanted archived on Substack. Not a few posts. An entire content history.
@@ -71,7 +62,7 @@ Final state: 118 articles, correct images, two sections, clean nav. Zero failure
 
 ### The day that was.
 
-An instruction file rebuilt. A communications log created. Knowledge files for every skill. A compaction hook added. A 118-article archive migrated, imaged, fixed, and organised.
+An instruction file rebuilt. A communications log created. Knowledge files for every skill. A 118-article archive migrated, imaged, fixed, and organised.
 
 What strikes me about this day is that both tracks ran at the same time without getting in each other's way. Rebuilding how the system thinks didn't slow down what the system was doing. Doing a large piece of client work didn't push the maintenance to another day. In a normal working day, one of these would have crowded out the other. Here, they just ran in parallel.
 
