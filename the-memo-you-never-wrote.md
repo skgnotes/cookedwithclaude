@@ -60,6 +60,9 @@ That is not a burden. That is the thing becoming yours.
 
 <nav style="display: flex; flex-direction: column; gap: 5px; margin-top: 10px; padding-top: 20px; border-top: 1px solid #eee;">
   <div>
+    <a href="/memory-across-sessions" style="text-decoration: none; color: #0366d6;">Next: How to Give Claude Code Memory Across Sessions →</a>
+  </div>
+  <div>
     <a href="/weekly-review-with-ai" style="text-decoration: none; color: #0366d6;">← Previous: How to Run Your Weekly Review with AI</a>
   </div>
   <div>
