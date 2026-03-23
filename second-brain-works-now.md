@@ -80,6 +80,9 @@ The promise was always that your knowledge would compound. It just needed someth
 
 <nav style="display: flex; flex-direction: column; gap: 5px; margin-top: 10px; padding-top: 20px; border-top: 1px solid #eee;">
   <div>
+    <a href="/weekly-review-with-ai" style="text-decoration: none; color: #0366d6;">Next: How to Run Your Weekly Review with AI →</a>
+  </div>
+  <div>
     <a href="/delegation-vs-abdication" style="text-decoration: none; color: #0366d6;">← Previous: The Difference Between Delegation and Abdication</a>
   </div>
   <div>

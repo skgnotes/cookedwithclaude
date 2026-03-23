@@ -138,3 +138,5 @@ This site documents what I've built and what I've learned. Most Claude Code cont
 
 [The Second Brain Actually Works Now](/second-brain-works-now)
 
+[How to Run Your Weekly Review with AI](/weekly-review-with-ai)
+
