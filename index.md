@@ -136,3 +136,5 @@ This site documents what I've built and what I've learned. Most Claude Code cont
 
 [The Difference Between Delegation and Abdication](/delegation-vs-abdication)
 
+[The Second Brain Actually Works Now](/second-brain-works-now)
+
