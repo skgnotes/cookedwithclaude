@@ -16,7 +16,6 @@ A day of reorganisation and automation — the personal operating system flatten
 
 - Reorganised 15+ files across 6 nested folders into 6 flat files — the whole system now opens faster and makes more sense
 - Built a bidirectional sync between the task list and the life map — overdue items stay visible, upcoming items surface by proximity
-- Completed a family member's flight check-in — seat selected, boarding pass sent via Telegram before they left the house
 - Refactored the daily digest script to be fully file-driven — no more hardcoded values
 - Updated passenger lookup to pull from the contacts file automatically
 
@@ -46,14 +45,6 @@ The new setup has a bidirectional sync. One direction: the task list reads from 
 
 Overdue items stay visible until resolved. Nothing falls off the edge of the calendar and disappears.
 
-### The check-in
-
-In the afternoon, something practical. A family member had a flight — Bangalore to Calicut — and needed to check in.
-
-One of the automations I'd built earlier handles this: navigate to the airline's check-in page, find the booking, select a seat, download the boarding pass, send it over. The automation ran. Seat selected. Boarding pass downloaded. Sent via Telegram, then WhatsApp.
-
-The family member got the boarding pass before they'd even left for the airport. That's the whole point — not that the task was automated, but that someone didn't have to think about it.
-
 ### The digest
 
 While reorganisation was underway, the daily digest script got a refactor. The original version had hardcoded values — specific file paths, fixed assumptions about where things lived. Every time the file structure changed (and it changes often during active development), the script had to be manually updated.
@@ -64,7 +55,7 @@ This is a small change in complexity that pays off every time the structure evol
 
 ### The day that was.
 
-Fifteen files collapsed into six. A smarter task system built. A family member's boarding pass sent. The digest script made more resilient.
+Fifteen files collapsed into six. A smarter task system built. The digest script made more resilient.
 
 What strikes me about this day is that simplicity isn't a starting point — it's a destination. The 6-file vault isn't simple because someone designed it that way from the beginning. It's simple because we kept asking what actually needed to be a separate file, and kept finding the answer was: fewer than we thought. The system works better not because it has more structure, but because it has less structure it doesn't need.
 
