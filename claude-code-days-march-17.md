@@ -12,12 +12,12 @@ Two tracks ran in parallel all day: rebuilding the system that tells Claude how 
 
 **Quick read**
 
-March 17 was a day of infrastructure and scale. While one part of the morning was spent rebuilding the instruction system from the ground up, another was migrating an entire 118-article archive for a non-profit client — scraped, converted, published, images added, a cache bug found and fixed, sections organised. Both tracks finished. Here's what happened:
+March 17 was a day of infrastructure and scale. While one part of the morning was spent rebuilding the instruction system from the ground up, another was archiving 118 articles from an organisation I used to work for — scraped, converted, published to a personal Substack, images added, a cache bug found and fixed, sections organised. Both tracks finished. Here's what happened:
 
 - Rebuilt the core instruction file from scratch — cut from 236 lines to 90, split into two clear parts
 - Created a communications log — every message sent on my behalf is now tracked
 - Wrote knowledge files for all 16 skills in the system
-- Migrated 118 articles from a non-profit client's blog to Substack — fully automated
+- Archived 118 articles from an organisation I used to work for — scraped and published to a personal Substack, fully automated
 - Added images to 108 posts, then hit a cache bug: data updated, pages not showing the changes
 - Fixed the cache, re-published everything — 183 images rendering correctly across the archive
 - Organised the archive into two sections with working navigation
@@ -42,7 +42,7 @@ Then: knowledge files. Every skill in the system — all 16 of them — now has 
 
 ### The archive project
 
-In the afternoon: a completely different kind of work. A non-profit client had years of published articles on their website — 118 of them — that they wanted archived on Substack. Not a few posts. An entire content history.
+In the afternoon: a completely different kind of work. An organisation I used to work for had years of published articles on their website — 118 of them. I wanted to keep a copy. The approach: archive the whole thing to a personal Substack account. Not a few posts. An entire content history.
 
 The approach: scrape every article from the source site, convert the HTML to the format Substack expects internally, publish each one via an authenticated browser session (the only reliable method at this scale), then go back and add images in a second pass.
 
@@ -56,7 +56,7 @@ The data had been written correctly. The platform's own API said so. But the pag
 
 This is a pattern that shows up in any system that stores data in one place and renders it somewhere else. The fix isn't to update the data again. It's to trigger a re-render — force the platform to regenerate the page from the updated source. A second publish pass, with nothing changed except the instruction to re-render.
 
-After that pass: 183 images rendering correctly across 108 posts. Then the archive was organised into two sections — one for the client's main content, one for press releases — with navigation that actually worked.
+After that pass: 183 images rendering correctly across 108 posts. Then the archive was organised into two sections — one for the main articles, one for press releases — with navigation that actually worked.
 
 Final state: 118 articles, correct images, two sections, clean nav. Zero failures.
 
@@ -64,7 +64,7 @@ Final state: 118 articles, correct images, two sections, clean nav. Zero failure
 
 An instruction file rebuilt. A communications log created. Knowledge files for every skill. A 118-article archive migrated, imaged, fixed, and organised.
 
-What strikes me about this day is that both tracks ran at the same time without getting in each other's way. Rebuilding how the system thinks didn't slow down what the system was doing. Doing a large piece of client work didn't push the maintenance to another day. In a normal working day, one of these would have crowded out the other. Here, they just ran in parallel.
+What strikes me about this day is that both tracks ran at the same time without getting in each other's way. Rebuilding how the system thinks didn't slow down what the system was doing. Doing a large archiving job didn't push the maintenance to another day. In a normal working day, one of these would have crowded out the other. Here, they just ran in parallel.
 
 That's not a feature of any particular tool. It's what happens when the overhead of switching between tasks goes to near zero.
 
