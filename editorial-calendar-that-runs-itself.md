@@ -83,6 +83,9 @@ If a brief requires clarification, the system stalls. So make the briefs clear. 
 
 <nav style="display: flex; flex-direction: column; gap: 5px; margin-top: 10px; padding-top: 20px; border-top: 1px solid #eee;">
   <div>
+    <a href="/delegation-vs-abdication" style="text-decoration: none; color: #0366d6;">Next: The Difference Between Delegation and Abdication →</a>
+  </div>
+  <div>
     <a href="/the-one-word-trigger" style="text-decoration: none; color: #0366d6;">← Previous: The One-Word Trigger</a>
   </div>
   <div>
