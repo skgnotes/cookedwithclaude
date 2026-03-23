@@ -16,7 +16,6 @@ A short, focused day. One proposal sent, one task list cleaned, one item carried
 
 - Located a 29-page real estate project proposal and sent it to a potential investor via WhatsApp
 - Cleaned the task list — closed what was done, removed what was stale, updated what was still live
-- One item carried forward: a family member's flight check-in, due the next day
 
 That's it. A short day done cleanly.
 
@@ -40,13 +39,13 @@ With the proposal sent, the rest of the day was housekeeping. The task list had 
 
 This is the kind of work that doesn't produce anything visible. There's nothing to show at the end. But a clean task list means the next session starts faster. Context is accurate. Nothing is being carried forward that shouldn't be.
 
-A few items removed. A few updated. One item flagged and carried forward: a family member's flight check-in, due the following day. Not yet automated at this point — that comes the next day.
+A few items removed. A few updated.
 
 ### The day that was.
 
-One proposal delivered. One task list cleaned. One item staged for tomorrow.
+One proposal delivered. One task list cleaned.
 
-What strikes me about a day like this is that it doesn't feel like much when you're in it — but it's the work that makes the bigger days possible. The investor has the proposal. The task list is accurate. Tomorrow starts with one clear thing to do. That's the whole job sometimes. Not every session needs to be a build.
+What strikes me about a day like this is that it doesn't feel like much when you're in it — but it's the work that makes the bigger days possible. The investor has the proposal. The task list is accurate. That's the whole job sometimes. Not every session needs to be a build.
 
 You can build this. Not all at once. Not in a day. But piece by piece, the way I've been doing it — one automation, one workflow, one small win at a time. And if you want help getting started, that's exactly what this site is for.
 
