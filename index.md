@@ -140,3 +140,5 @@ This site documents what I've built and what I've learned. Most Claude Code cont
 
 [How to Run Your Weekly Review with AI](/weekly-review-with-ai)
 
+[The Memo You Never Wrote](/the-memo-you-never-wrote)
+

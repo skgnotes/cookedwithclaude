@@ -83,6 +83,9 @@ The weekly review is a habit before it's a system. Get the habit first.
 
 <nav style="display: flex; flex-direction: column; gap: 5px; margin-top: 10px; padding-top: 20px; border-top: 1px solid #eee;">
   <div>
+    <a href="/the-memo-you-never-wrote" style="text-decoration: none; color: #0366d6;">Next: The Memo You Never Wrote →</a>
+  </div>
+  <div>
     <a href="/second-brain-works-now" style="text-decoration: none; color: #0366d6;">← Previous: The Second Brain Actually Works Now</a>
   </div>
   <div>
