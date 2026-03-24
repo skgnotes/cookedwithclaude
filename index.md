@@ -146,3 +146,5 @@ This site documents what I've built and what I've learned. Most Claude Code cont
 
 [How I Query My Product Analytics Without Opening a Dashboard](/posthog-mcp-no-dashboard)
 
+[Institutional Memory Is a Skill](/institutional-memory)
+
