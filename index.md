@@ -150,3 +150,5 @@ This site documents what I've built and what I've learned. Most Claude Code cont
 
 [Running separate AI contexts for each client](/per-client-ai-contexts)
 
+[How I use Claude Code to prep for important meetings](/meeting-prep-brief)
+

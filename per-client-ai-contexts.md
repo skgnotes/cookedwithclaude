@@ -93,6 +93,9 @@ Once you've done two, the third takes fifteen minutes.
 
 <nav style="display: flex; flex-direction: column; gap: 5px; margin-top: 10px; padding-top: 20px; border-top: 1px solid #eee;">
   <div>
+    <a href="/meeting-prep-brief" style="text-decoration: none; color: #0366d6;">Next: How I use Claude Code to prep for important meetings →</a>
+  </div>
+  <div>
     <a href="/institutional-memory" style="text-decoration: none; color: #0366d6;">← Previous: Institutional Memory Is a Skill</a>
   </div>
   <div>
