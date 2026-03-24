@@ -89,6 +89,9 @@ Within a few weeks, you'll have a contact file that actually captures your relat
 
 <nav style="display: flex; flex-direction: column; gap: 5px; margin-top: 10px; padding-top: 20px; border-top: 1px solid #eee;">
   <div>
+    <a href="/playwright-google-business-profile" style="text-decoration: none; color: #0366d6;">Next: How we fixed a Google Business Profile with Playwright — without touching the API →</a>
+  </div>
+  <div>
     <a href="/per-client-ai-contexts" style="text-decoration: none; color: #0366d6;">← Previous: Running separate AI contexts for each client</a>
   </div>
   <div>
