@@ -86,6 +86,9 @@ That's the thing about memory: you only have to give it once.
 
 <nav style="display: flex; flex-direction: column; gap: 5px; margin-top: 10px; padding-top: 20px; border-top: 1px solid #eee;">
   <div>
+    <a href="/posthog-mcp-no-dashboard" style="text-decoration: none; color: #0366d6;">Next: How I Query My Product Analytics Without Opening a Dashboard →</a>
+  </div>
+  <div>
     <a href="/the-memo-you-never-wrote" style="text-decoration: none; color: #0366d6;">← Previous: The Memo You Never Wrote</a>
   </div>
   <div>

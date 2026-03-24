@@ -144,3 +144,5 @@ This site documents what I've built and what I've learned. Most Claude Code cont
 
 [How to Give Claude Code Memory Across Sessions](/memory-across-sessions)
 
+[How I Query My Product Analytics Without Opening a Dashboard](/posthog-mcp-no-dashboard)
+
