@@ -130,6 +130,9 @@ The Google Business Profile was a twenty-minute fix. The next one will be ten.
 
 <nav style="display: flex; flex-direction: column; gap: 5px; margin-top: 10px; padding-top: 20px; border-top: 1px solid #eee;">
   <div>
+    <a href="/tracking-relationships-without-crm" style="text-decoration: none; color: #0366d6;">Next: How I track birthdays and follow-ups without a CRM →</a>
+  </div>
+  <div>
     <a href="/meeting-prep-brief" style="text-decoration: none; color: #0366d6;">← Previous: How I use Claude Code to prep for important meetings</a>
   </div>
   <div>

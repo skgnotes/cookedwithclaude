@@ -154,3 +154,5 @@ This site documents what I've built and what I've learned. Most Claude Code cont
 
 [How we fixed a Google Business Profile with Playwright — without touching the API](/playwright-google-business-profile)
 
+[How I track birthdays and follow-ups without a CRM](/tracking-relationships-without-crm)
+
