@@ -128,6 +128,9 @@ Once you have twenty or thirty entries, the pattern of what's overdue becomes ob
 
 <nav style="display: flex; flex-direction: column; gap: 5px; margin-top: 10px; padding-top: 20px; border-top: 1px solid #eee;">
   <div>
+    <a href="/screenshots-to-board-report" style="text-decoration: none; color: #0366d6;">Next: From screenshots to board report in one session →</a>
+  </div>
+  <div>
     <a href="/playwright-google-business-profile" style="text-decoration: none; color: #0366d6;">← Previous: How we fixed a Google Business Profile with Playwright — without touching the API</a>
   </div>
   <div>

@@ -156,3 +156,5 @@ This site documents what I've built and what I've learned. Most Claude Code cont
 
 [How I track birthdays and follow-ups without a CRM](/tracking-relationships-without-crm)
 
+[From screenshots to board report in one session](/screenshots-to-board-report)
+
