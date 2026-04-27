@@ -158,3 +158,5 @@ This site documents what I've built and what I've learned. Most Claude Code cont
 
 [From screenshots to board report in one session](/screenshots-to-board-report)
 
+[Your morning automation stack](/morning-automation-stack)
+

@@ -108,6 +108,9 @@ The half-day task doesn't need to be a half-day task.
 
 <nav style="display: flex; flex-direction: column; gap: 5px; margin-top: 10px; padding-top: 20px; border-top: 1px solid #eee;">
   <div>
+    <a href="/morning-automation-stack" style="text-decoration: none; color: #0366d6;">Next: Your morning automation stack →</a>
+  </div>
+  <div>
     <a href="/tracking-relationships-without-crm" style="text-decoration: none; color: #0366d6;">← Previous: How I track birthdays and follow-ups without a CRM</a>
   </div>
   <div>
