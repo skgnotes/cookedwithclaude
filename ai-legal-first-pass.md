@@ -91,6 +91,9 @@ That calibration is worth building. It costs nothing to start.
 
 <nav style="display: flex; flex-direction: column; gap: 5px; margin-top: 10px; padding-top: 20px; border-top: 1px solid #eee;">
   <div>
+    <a href="/the-bot-that-talks-back" style="text-decoration: none; color: #0366d6;">Next: The Bot That Talks Back →</a>
+  </div>
+  <div>
     <a href="/the-15-minute-invoice" style="text-decoration: none; color: #0366d6;">← Previous: The 15-Minute Invoice</a>
   </div>
   <div>

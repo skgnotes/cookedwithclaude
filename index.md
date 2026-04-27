@@ -166,3 +166,5 @@ This site documents what I've built and what I've learned. Most Claude Code cont
 
 [The AI Legal First Pass](/ai-legal-first-pass)
 
+[The Bot That Talks Back](/the-bot-that-talks-back)
+
