@@ -164,3 +164,5 @@ This site documents what I've built and what I've learned. Most Claude Code cont
 
 [The 15-Minute Invoice](/the-15-minute-invoice)
 
+[The AI Legal First Pass](/ai-legal-first-pass)
+

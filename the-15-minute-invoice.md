@@ -103,6 +103,9 @@ That's the leverage. Not "AI generated your invoice." You generated the invoice.
 
 <nav style="display: flex; flex-direction: column; gap: 5px; margin-top: 10px; padding-top: 20px; border-top: 1px solid #eee;">
   <div>
+    <a href="/ai-legal-first-pass" style="text-decoration: none; color: #0366d6;">Next: The AI Legal First Pass →</a>
+  </div>
+  <div>
     <a href="/retiring-an-automation" style="text-decoration: none; color: #0366d6;">← Previous: The Automation You Should Have Retired Six Months Ago</a>
   </div>
   <div>
