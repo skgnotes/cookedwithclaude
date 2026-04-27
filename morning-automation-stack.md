@@ -211,6 +211,9 @@ The full stack takes an afternoon to build. The return starts the next morning a
 
 <nav style="display: flex; flex-direction: column; gap: 5px; margin-top: 10px; padding-top: 20px; border-top: 1px solid #eee;">
   <div>
+    <a href="/retiring-an-automation" style="text-decoration: none; color: #0366d6;">Next: The Automation You Should Have Retired Six Months Ago →</a>
+  </div>
+  <div>
     <a href="/screenshots-to-board-report" style="text-decoration: none; color: #0366d6;">← Previous: From screenshots to board report in one session</a>
   </div>
   <div>

@@ -160,3 +160,5 @@ This site documents what I've built and what I've learned. Most Claude Code cont
 
 [Your morning automation stack](/morning-automation-stack)
 
+[The Automation You Should Have Retired Six Months Ago](/retiring-an-automation)
+
