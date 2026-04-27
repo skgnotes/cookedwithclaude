@@ -162,3 +162,5 @@ This site documents what I've built and what I've learned. Most Claude Code cont
 
 [The Automation You Should Have Retired Six Months Ago](/retiring-an-automation)
 
+[The 15-Minute Invoice](/the-15-minute-invoice)
+

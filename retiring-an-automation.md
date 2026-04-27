@@ -62,6 +62,9 @@ The work is in the retirement.
 
 <nav style="display: flex; flex-direction: column; gap: 5px; margin-top: 10px; padding-top: 20px; border-top: 1px solid #eee;">
   <div>
+    <a href="/the-15-minute-invoice" style="text-decoration: none; color: #0366d6;">Next: The 15-Minute Invoice →</a>
+  </div>
+  <div>
     <a href="/morning-automation-stack" style="text-decoration: none; color: #0366d6;">← Previous: Your morning automation stack</a>
   </div>
   <div>
