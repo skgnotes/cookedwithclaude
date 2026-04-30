@@ -99,6 +99,9 @@ The bot talks back. Let it.
     <a href="/ai-legal-first-pass" style="text-decoration: none; color: #0366d6;">← Previous: The AI Legal First Pass</a>
   </div>
   <div>
+    <a href="/what-155-sessions-taught-me" style="text-decoration: none; color: #0366d6;">Next: What 155 sessions taught me about how I actually work →</a>
+  </div>
+  <div>
     <a href="/" style="text-decoration: none; color: #0366d6;">Home</a>
   </div>
 </nav>

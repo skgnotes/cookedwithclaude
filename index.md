@@ -168,3 +168,5 @@ This site documents what I've built and what I've learned. Most Claude Code cont
 
 [The Bot That Talks Back](/the-bot-that-talks-back)
 
+[What 155 sessions taught me about how I actually work](/what-155-sessions-taught-me)
+
